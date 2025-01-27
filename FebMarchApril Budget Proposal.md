@@ -1,4 +1,4 @@
-Proposal: Request to approve the Qubic Core Services February, March, April budget proposal
+#Proposal: Request to approve the Qubic Core Services February, March, April budget proposal#
 
 Finance through CCF donations
 Qubic Core Services (QCS) is requesting funding from the Computor Control Fund (CCF) to fund running costs like overhead (salaries and expenses) and to fund basic activities for Marketing, Ecosystem Development, Community Management, Strategy, Finance and Operations. Basic activities include the funding of expanding the ecosystem team, hiring a new marketing lead, ads, growth marking software, PR (paid and earned media) market maker, ecosystem events, legal services and hiring. The budget overview includes a breakdown of the different workgroups and their budgeted expenditure. QCS did not request a budget for the month of January to reduce price pressure on the CCF. We are requesting $662.400 / 276bln qubics per 2400/bn to fund the running costs for the months February, March, April.
