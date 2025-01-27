@@ -12,7 +12,9 @@ Accelerate ecosystem growth for community, developers, users, and partners.
 Achieve position as the most innovative blockchain.
 Ensure Qubic's ecosystem financial health and long-term success.
 The QCS spendings can be tracked here and are broken down by workgroup.  
-Ecosystem Development 
+
+**Ecosystem Development**
+
 The Ecosystem Development team focuses on expanding the Qubic ecosystem through the development of grants programs, incubator program, crypto partnerships, events such as hackathons and institutional real-world partnerships. In Q3 and Q4, the Ecosystem team has onboarded close to 10 different projects onto the Qubic ecosystem, among them Vottun, Qubex and Nostromo that are creating wider user adoption. The team is also responsible for maintaining relationships with exchanges, listings, market makers, universities and institutions. The budget requested is to fund running costs, the new market maker, and to organize smaller events.
 
 Additionally, the team will work to pave the way for the ecosystem to operate independently in a decentralized manner as quickly as possible.
@@ -22,6 +24,7 @@ Ecosystem is also a horizontal service that supports both the marketing and core
 The grants and incubation programs already have their own funding, and this budget allocation will not expand these funds. Current expenses can be viewed in the following spreadsheets:
 	•	Grants: https://docs.google.com/spreadsheets/d/1zvda8WZzVljbu6LKMxdTnNlt2Fj5T65xlH6FSOvO33k/edit?usp=sharing
 	•	Incubation: https://docs.google.com/spreadsheets/d/1ncuM_LT8HFMuD5D7FXHGrXITACNgD2W17FZqxygz58A/edit?usp=sharing
+
 Currently, they have a treasury, after deducting the payments for pending milestones once completed, of 58.3B and 148.5B for grants and incubation, respectively. This treasury is only used to pay for grants and incubation projects.
 Ecosystem expenses are allocated for team salaries, a new market maker, events, scientific paper development, and associated costs for the mentioned operations. It is not included in the budget costs to list in exchanges. We plan to hire an Asian representative and also a PM.
 
