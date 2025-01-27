@@ -1,4 +1,4 @@
-##Proposal: Request to approve the Qubic Core Services February, March, April budget proposal
+# Proposal: Request to approve the Qubic Core Services February, March, April budget proposal
 
 
 **Finance through CCF donations**
