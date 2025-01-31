@@ -87,34 +87,35 @@ Alignment with Qubic Teams
 Actions
 Create better alignment between marketing, ecosystem, core development and the Qubican program. 
 Bi-weekly call with marketing and ecosystem to align on prioritized tasks and marketing campaigns.
+
 **Operational Improvements**
 
 Task Design and Rewards:
 Actions:
-Add variety to existing tasks: TikTok videos, articles, community group tasks, and infographics.
-Tasks include: content creation across all social channels, raids, infographic, mini KOL engagement, community member recruitment, (local) events/workshops, university engagement, investor introductions, partnership introductions, bug bounties, documentation improvements
-Dynamic rewards based on performance (e.g., impressions, likes).
-Reinstate merit-based bonuses for exceptional contributions.
+- Add variety to existing tasks: TikTok videos, articles, community group tasks, and infographics.
+- Tasks include: content creation across all social channels, raids, infographic, mini KOL engagement, community member recruitment, (local) events/workshops, university engagement, investor introductions, partnership introductions, bug bounties, documentation improvements
+- Dynamic rewards based on performance (e.g., impressions, likes).
+- Reinstate merit-based bonuses for exceptional contributions.
 Expected Outcome:
-Enhanced task engagement and ambassador motivation.
+- Enhanced task engagement and ambassador motivation.
 Transparent Reward System:
 Actions:
-Provide monthly reports detailing tasks completed and rewards earned.
-Ensure timely payouts to maintain trust.
+- Provide monthly reports detailing tasks completed and rewards earned.
+- Ensure timely payouts to maintain trust.
 Expected Outcome:
-Higher ambassador satisfaction and retention.
+- Higher ambassador satisfaction and retention.
 Ambassador Training:
 Actions:
-Develop training modules on Qubic by Ecosystem, Marketing and community building (via Qubic France).
-Host monthly training calls with Marketing and Community teams.
+- Develop training modules on Qubic by Ecosystem, Marketing and community building (via Qubic France).
+- Host monthly training calls with Marketing and Community teams.
 Expected Outcome:
-Better quality content and more effective community engagement.
+- Better quality content and more effective community engagement.
 Specialized Roles:
 Actions:
-Create task-specific groups (e.g.,content creation, community management, business introductions, dev group ).
-Establish a tiered ranking system based on time, effort, and performance.
+- Create task-specific groups (e.g.,content creation, community management, business introductions, dev group ).
+- Establish a tiered ranking system based on time, effort, and performance.
 Expected Outcome:
-Increased efficiency and accountability among ambassadors.
+- Increased efficiency and accountability among ambassadors.
 Any funds that are left will be either carried over to the next Ambassador Program period or transferred back directly to the CCF. 
 
 
