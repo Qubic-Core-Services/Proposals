@@ -15,8 +15,8 @@ For more a more detailed 2025 Qubican Strategy, review here:https://docs.google.
 **Who are Qubicans and what are their 2025 objectives**
 
 Qubic Ambassadors (Qubicans) are passionate individuals from around the globe that help grow the Qubic ecosystem. There are two distinct types of ambassador roles, each contributing to the ecosystem in a unique way:
-Qubican Community Leaders – Lead local community and the Discord, organise local meetups, conferences, workshops, and (virtual) events to engage and expand Qubic's presence in your area. 
-Qubican Ambassadors – are members of local Qubican communities and are organized in workgroups that complete specialized tasks like content creation, community management, partnership/investor introductions and more. Ambassador can have both technical and non-technical backgrounds. 
+- Qubican Community Leaders – Lead local community and the Discord, organise local meetups, conferences, workshops, and (virtual) events to engage and expand Qubic's presence in your area. 
+- Qubican Ambassadors – are members of local Qubican communities and are organized in workgroups that complete specialized tasks like content creation, community management, partnership/investor introductions and more. Ambassador can have both technical and non-technical backgrounds. 
 **Community Leads**: Razzia, JokerRed (France), Kimz, Phantom (Nomad), SpaceCaddet, Kirby, RetroDrive (USA), El Clip, Drac, Jort (Spain), Emmanuel (Nigeria). 
 Special support: EsoxHero, 7Straus, Rudy Nakamoto and CryptoDeighs
 
