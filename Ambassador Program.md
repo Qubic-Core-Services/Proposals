@@ -1,29 +1,33 @@
-** Ambassador Program - Budget CCF Proposal ** 
+**Ambassador Program - Budget CCF Proposal** 
+
 Proposal
+
 Request to approve the Ambassador Program Season 2 for the months February, March and April.
 Available Options:
 Option 0: No, I don’t want
 Option 1: Yes, approved the budget of 21.3bln qubics.
 
-Details
+**Details**
 The Qubic Ambassador Program is a global initiative aimed at building local communities passionate about Qubic’s decentralised solutions. Qubican’s (ambassadors) will lead on expanding Qubic’s global reach by organising local events, educating local communities, and contributing to the growth of the ecosystem by completing tasks, introducing business partnerships and completing bounties. The pilot Ambassador Program was successfully completed in January and the results were presented at the Qubic Community all-handsIn order to scale and expand the existing ambassador program and to create incentives for Qubicans, we’re proposing a request to fund the ambassador program with 21.3Bln Qu’s. 
 For more a more detailed 2025 Qubican Strategy, review here:https://docs.google.com/document/d/1PvAK0e1VUh-0_hT5auVS5VGfZgleEbtPSlh7dXnZ92M/edit?usp=sharing
-Who are Qubicans and what are their 2025 objectives
+
+**Who are Qubicans and what are their 2025 objectives**
 Qubic Ambassadors (Qubicans) are passionate individuals from around the globe that help grow the Qubic ecosystem. There are two distinct types of ambassador roles, each contributing to the ecosystem in a unique way:
 Qubican Community Leaders – Lead local community and the Discord, organise local meetups, conferences, workshops, and (virtual) events to engage and expand Qubic's presence in your area. 
 Qubican Ambassadors – are members of local Qubican communities and are organized in workgroups that complete specialized tasks like content creation, community management, partnership/investor introductions and more. Ambassador can have both technical and non-technical backgrounds. 
-Community Leads: Razzia, JokerRed (France), Kimz, Phantom (Nomad), SpaceCaddet, Kirby, RetroDrive (USA), El Clip, Drac, Jort (Spain), Emmanuel (Nigeria). 
+**Community Leads**: Razzia, JokerRed (France), Kimz, Phantom (Nomad), SpaceCaddet, Kirby, RetroDrive (USA), El Clip, Drac, Jort (Spain), Emmanuel (Nigeria). 
 Special support: EsoxHero, 7Straus, Rudy Nakamoto and CryptoDeighs
-Strategic Goals:
+
+**Strategic Goals:**
 Establish strong local communities through regional chapters and ambassador-led events.
 Expand Qubic’s reach to underrepresented regions, prioritizing the USA, DACH area and non-English-speaking countries like China and Spain.
 Strengthen partnerships with local crypto communities, universities and businesses
-Operational Goals:
+**Operational Goals:**
 Increase task variety and engagement through dynamic reward systems and performance-based bonuses.
 Improve ambassador retention by addressing tasks, unclear expectations and more ownership
 Develop structured training modules to equip ambassadors with skills for community building, content creation and community management.
 
-Success Metrics
+**Success Metrics**
 Ecosystem Growth:
 Increase in regional chapters (target: 2 new chapters in 3 months).
 At least 5 events (target: 200 participants)
@@ -40,7 +44,7 @@ Developer Contributions:
 Increase of 15% bug bounties
 At least 2 workshops
 
-Q4/2024 Pilot Ambassador Program Review
+**Q4/2024 Pilot Ambassador Program Review**
 Impact achievements:
 Task Completion: 1,300 tasks approved, demonstrating high ambassador productivity.
 Community Engagement: At least 3500 tweets, 176,520 likes and 1.59M views on X. 30 videos and 9,000 YouTube views achieved.
@@ -54,7 +58,7 @@ Retention: 60% retention ambassador retention due lack of time, task variation
 Regional Gaps: Limited activity in strategic regions like the USA, DACH, China and Spain.
 Task Design: Ambassadors requested more variety, dynamic rewards, and additional social media platforms like TikTok and Instagram.
 
-How will we spend the funds?
+**How will we spend the funds?**
 Strategic Initiatives
 Building Local Communities:
 Actions:
