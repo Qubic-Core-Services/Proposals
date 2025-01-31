@@ -22,48 +22,48 @@ Special support: EsoxHero, 7Straus, Rudy Nakamoto and CryptoDeighs
 
 **Strategic Goals:**
 
-Establish strong local communities through regional chapters and ambassador-led events.
-Expand Qubic’s reach to underrepresented regions, prioritizing the USA, DACH area and non-English-speaking countries like China and Spain.
-Strengthen partnerships with local crypto communities, universities and businesses
+- Establish strong local communities through regional chapters and ambassador-led events.
+- Expand Qubic’s reach to underrepresented regions, prioritizing the USA, DACH area and non-English-speaking countries like China and Spain.
+- Strengthen partnerships with local crypto communities, universities and businesses
 
 **Operational Goals:**
 
-Increase task variety and engagement through dynamic reward systems and performance-based bonuses.
-Improve ambassador retention by addressing tasks, unclear expectations and more ownership
-Develop structured training modules to equip ambassadors with skills for community building, content creation and community management.
+- Increase task variety and engagement through dynamic reward systems and performance-based bonuses.
+- Improve ambassador retention by addressing tasks, unclear expectations and more ownership
+- Develop structured training modules to equip ambassadors with skills for community building, content creation and community management.
 
 **Success Metrics**
 
 Ecosystem Growth:
-Increase in regional chapters (target: 2 new chapters in 3 months).
-At least 5 events (target: 200 participants)
-Increase the number of Qubicans with at least 25%.
-At least 5 business or partnership introductions
+- Increase in regional chapters (target: 2 new chapters in 3 months).
+- At least 5 events (target: 200 participants)
+- Increase the number of Qubicans with at least 25%.
+- At least 5 business or partnership introductions
 Task Engagement:
-Number of tasks completed (target: 1,800 tasks in 3 months).
-Higher engagement rates on new platforms (e.g., TikTok, Instagram).
+- Number of tasks completed (target: 1,800 tasks in 3 months).
+H- igher engagement rates on new platforms (e.g., TikTok, Instagram).
 Ambassador Retention:
-Improve retention rate to 70%.
+- Improve retention rate to 70%.
 Content Reach:
-Increase average likes and impressions per task by 20%.
+- Increase average likes and impressions per task by 20%.
 Developer Contributions:
-Increase of 15% bug bounties
-At least 2 workshops
+- Increase of 15% bug bounties
+- At least 2 workshops
 
 **Q4/2024 Pilot Ambassador Program Review**
 
 Impact achievements:
-Task Completion: 1,300 tasks approved, demonstrating high ambassador productivity.
-Community Engagement: At least 3500 tweets, 176,520 likes and 1.59M views on X. 30 videos and 9,000 YouTube views achieved.
-Developer metrics: 13 code contributions and 13 bugs hunted
-Events: 2 events organized in Slovenia and Nigeria.
-Partnerships: 4 partnership introductions made
-Global Representation: 25 active ambassadors (at peak 35) from 20 countries, with the U.S., Nigeria, and France leading.
-ROI: Average spend per month was $8370 or $334 per ambassador per month.
+- Task Completion: 1,300 tasks approved, demonstrating high ambassador productivity.
+- Community Engagement: At least 3500 tweets, 176,520 likes and 1.59M views on X. 30 videos and 9,000 YouTube views achieved.
+- Developer metrics: 13 code contributions and 13 bugs hunted
+- Events: 2 events organized in Slovenia and Nigeria.
+- Partnerships: 4 partnership introductions made
+- Global Representation: 25 active ambassadors (at peak 35) from 20 countries, with the U.S., Nigeria, and France leading.
+- ROI: Average spend per month was $8370 or $334 per ambassador per month.
 Challenges:
-Retention: 60% retention ambassador retention due lack of time, task variation
-Regional Gaps: Limited activity in strategic regions like the USA, DACH, China and Spain.
-Task Design: Ambassadors requested more variety, dynamic rewards, and additional social media platforms like TikTok and Instagram.
+- Retention: 60% retention ambassador retention due lack of time, task variation
+- Regional Gaps: Limited activity in strategic regions like the USA, DACH, China and Spain.
+- Task Design: Ambassadors requested more variety, dynamic rewards, and additional social media platforms like TikTok and Instagram.
 
 **How will we spend the funds?**
 
