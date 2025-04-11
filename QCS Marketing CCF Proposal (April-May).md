@@ -22,7 +22,7 @@ Sent 198.7 billion QUBIC to wallet MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZY
 **QCS Upcoming Catalysts:**
 
 - Certik Speedtest and Audit in collaboration with QCT
-  -   - The numbers are in. CertiK put Qubic to the test — and we’re ready to break the silence. Once the proposal and budget are greenlit, a full campaign will go live to share the speed, the scale, and the signal. Stay tuned…        
+  - The numbers are in. CertiK put Qubic to the test — and we’re ready to break the silence. Once the proposal and budget are greenlit, a full campaign will go live to share the speed, the scale, and the signal. Stay tuned…        
 - Chainspect integration  
 - Dextools integration  
 - Marketing support:  
