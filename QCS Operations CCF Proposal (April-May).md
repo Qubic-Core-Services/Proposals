@@ -53,7 +53,8 @@ Sent 88,3 billion QUBIC to wallet STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSD
 - The results were disappointing over a period of time despite frequent feedback conversation. After 3 weeks from the start of the agreement, QCS decided to step in and support the QCS employee with terminating the agreement with the KOL.  
 - As a result the remaining 90 QUBIC billion funds went to the Ecosystem team. 29.714 billion have been spent, most of it went to expenses related to MAD HACK as shown in the following image:
 
-![image](https://github.com/user-attachments/assets/0470fcfa-5138-4432-9cb1-1d6cbc8a81ac)
+![image](https://github.com/user-attachments/assets/70c97b1b-e91a-409b-aa9b-c1367d059947)
+
 
 # Financial Reports Can Be Found Here:
 
@@ -113,7 +114,8 @@ Oversees the development of core front-end infrastructure including the Qubic Ex
 
 QCS success indicators are determined by the published [roadmap](https://qubic.org/roadmap) and Qubic milestones. Each individual workgroup discusses its successes and learnings in the section below the milestone summary.
 
-![image](https://github.com/user-attachments/assets/894e448f-d6e7-4559-918d-6cb2387135e8)
+![image](https://github.com/user-attachments/assets/0aefe7eb-0cda-41d8-ac9f-3c5d11103a85)
+
 
 ### Summary Highlights
 
@@ -212,7 +214,8 @@ In 2025 SFO is focussed on delivering across three pillars:
 
 ## Budget Breakdown
 
-![image](https://github.com/user-attachments/assets/3759b91a-750d-4b83-a544-cb021d6dde8c)
+![image](https://github.com/user-attachments/assets/06861a65-ac69-443a-a9ff-4e5637ca3442)
+
 
 
 **Note:**  
@@ -229,5 +232,6 @@ In 2025 SFO is focussed on delivering across three pillars:
 
 **Q. Who is part of Strategy, Finance and Operations QCS?**
 
-![image](https://github.com/user-attachments/assets/f47b2708-a678-44cd-95cc-b3647dedff89)
+![image](https://github.com/user-attachments/assets/1f86b349-52d6-4bcd-9221-a44b1eaa45b5)
+
 
