@@ -57,7 +57,8 @@ Sent 135 billion QUBIC to wallet ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDH
 - The results were disappointing over a period of time despite frequent feedback conversation. After 3 weeks from the start of the agreement, QCS decided to step in and support the QCS employee with terminating the agreement with the KOL.  
 - As a result the remaining 90 QUBIC billion funds went to the Ecosystem team. 29.714 billion have been spent, most of it went to expenses related to MAD HACK as shown in the following image:
 
-![image](https://github.com/user-attachments/assets/0470fcfa-5138-4432-9cb1-1d6cbc8a81ac)
+![image](https://github.com/user-attachments/assets/d7fd4713-656c-4d05-b7ce-48f6a8891303)
+
 
 
 # Financial Reports Can Be Found Here:
@@ -118,7 +119,8 @@ Oversees the development of core front-end infrastructure including the Qubic Ex
 
 QCS success indicators are determined by the published [roadmap](https://qubic.org/roadmap) and Qubic milestones. Each individual workgroup discusses its successes and learnings in the section below the milestone summary.
 
-![image](https://github.com/user-attachments/assets/42d6bf12-5321-4090-98ad-fb4a220c567d)
+![image](https://github.com/user-attachments/assets/867afff8-9213-485e-928b-858d0e9137bd)
+
 
 ### Summary Highlights
 
@@ -234,7 +236,7 @@ During Q1, we did not onboard new incubation teams, as we focused on improving p
 
 ## Budget Breakdown
 
-![image](https://github.com/user-attachments/assets/f914094d-565d-438a-923d-5a34d22c933c)
+![image](https://github.com/user-attachments/assets/efe8d722-d477-47d5-988a-b4ab0816ca68)
 
 The budget would cover **April and May**
 
@@ -251,4 +253,4 @@ The budget would cover **April and May**
 
 **Q. Who is part of Ecosystem QCS?**
 
-![image](https://github.com/user-attachments/assets/2ab09c59-a515-4abc-8e61-9c1a1be2624f)
+![image](https://github.com/user-attachments/assets/4735d6e4-d830-4b26-be90-07671924f1ed)
