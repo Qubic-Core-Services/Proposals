@@ -57,7 +57,8 @@ Sent 198.7 billion QUBIC to wallet MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZY
 - The results were disappointing over a period of time despite frequent feedback conversation. After 3 weeks from the start of the agreement, QCS decided to step in and support the QCS employee with terminating the agreement with the KOL.  
 - As a result the remaining 90 QUBIC billion funds went to the Ecosystem team. 29.714 billion have been spent, most of it went to expenses related to MAD HACK as shown in the following image:
 
-![image](https://github.com/user-attachments/assets/0470fcfa-5138-4432-9cb1-1d6cbc8a81ac)
+![image](https://github.com/user-attachments/assets/7de637b7-635c-43b3-a53c-73266fe89077)
+
 
 
 # Financial Reports Can Be Found Here:
@@ -118,7 +119,8 @@ Oversees the development of core front-end infrastructure including the Qubic Ex
 
 QCS success indicators are determined by the published [roadmap](https://qubic.org/roadmap) and Qubic milestones. Each individual workgroup discusses its successes and learnings in the section below the milestone summary.
 
-![image](https://github.com/user-attachments/assets/fe3564ab-6f60-4a9b-bb33-62409c35c316)
+![image](https://github.com/user-attachments/assets/872f83bb-dfd7-4273-825b-e136b2fb68cc)
+
 
 ### Summary Highlights
 
@@ -183,15 +185,18 @@ For Q2, Qubic's growth marketing will focus on enhancing real-world utility, dri
 
 These strategies aim to solidify Qubic's position as a leader in decentralized AI computing and expand its adoption across various sectors. Please refer to the Plan-on-a-Page below.
 
-![image](https://github.com/user-attachments/assets/5d6c9b03-7322-4dfa-95f1-347fe00983a8)
+![image](https://github.com/user-attachments/assets/f272fc36-cb59-41dc-917b-33937a71ebcb)
 
 
-![image](https://github.com/user-attachments/assets/fcc75aab-2142-4d95-98f4-1c6eb7a82183)
+
+![image](https://github.com/user-attachments/assets/cb5205cd-c656-430c-86e9-05da0015bce8)
+
 
 
 ## Budget Breakdown - $200K for April & May 
 
-![image](https://github.com/user-attachments/assets/b40690c4-3d22-4376-b64f-9936bc995bd0)
+![image](https://github.com/user-attachments/assets/b4edfa2c-7f42-426c-a9b4-c1f6ff5fcb6e)
+
 
 *Standing run rate of salaries, channels & software = 50-55% as we scale marketing into Q3’25*  
 
@@ -207,7 +212,8 @@ These strategies aim to solidify Qubic's position as a leader in decentralized A
 
 **Q. Who's in the QCS Martketing Team**
 
-![image](https://github.com/user-attachments/assets/c09d797f-9b91-4043-a82f-025915dfed34)
+![image](https://github.com/user-attachments/assets/b19447ed-5fc6-48ee-8927-7f4a8b7b52dd)
+
 
 
 
