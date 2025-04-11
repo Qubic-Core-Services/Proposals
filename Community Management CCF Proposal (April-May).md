@@ -69,7 +69,7 @@ The [previous funding proposal](https://github.com/Zgirt/QCS-Budget-Q12025/blob/
 
 ## Team Structure
 
-An updated list with the current QCS team can be found [here](#).
+An updated list with the current QCS team can be found [here](https://github.com/Qubic-Core-Services/Proposals/blob/main/Qubic%20Core%20Services%20(QCS)%20Team.md).
 
 ---
 
