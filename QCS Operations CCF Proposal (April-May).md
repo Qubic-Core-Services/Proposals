@@ -2,8 +2,8 @@
 Sent 88,3 billion QUBIC to wallet STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE to support strategy, finance and operations. The Qubic amount was calculated using a valuation of 1000 USDT per billion.
 
 ## Available Options: ##  
-Option 0: No, I don’t want  
-Option 1: Yes, approved the budget of 88,3 bln QUBIC.
+**Option 0:** No, I don’t want  
+**Option 1:** Yes, approved the budget of 88,3 bln QUBIC.
 
 ## How We Used Past Funding in Q1 ## 
 
