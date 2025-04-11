@@ -57,7 +57,7 @@ Sent 25 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFAT
 - The results were disappointing over a period of time despite frequent feedback conversation. After 3 weeks from the start of the agreement, QCS decided to step in and support the QCS employee with terminating the agreement with the KOL.  
 - As a result the remaining 90 QUBIC billion funds went to the Ecosystem team. 29.714 billion have been spent, most of it went to expenses related to MAD HACK as shown in the following image:
 
-![image](https://github.com/user-attachments/assets/0470fcfa-5138-4432-9cb1-1d6cbc8a81ac)
+![image](https://github.com/user-attachments/assets/42cbbef2-1239-4c3d-bbcc-4f6c21426263)
 
 
 ## Financial Reports Can Be Found Here:
@@ -116,7 +116,8 @@ Oversees the development of core front-end infrastructure including the Qubic Ex
 
 QCS success indicators are determined by the published [roadmap](https://qubic.org/roadmap) and Qubic milestones. Each individual workgroup discusses its successes and learnings in the section below the milestone summary.
 
-![image](https://github.com/user-attachments/assets/773de04f-646b-4a31-80a5-d2f94f5d0889)
+![image](https://github.com/user-attachments/assets/e9bc1b65-4b83-41c5-a651-dd5089583a83)
+
 
 ### Summary Highlights
 
@@ -164,7 +165,8 @@ The Community Management team moderates the Qubic Discord server and Telegram ch
 
 ## Budget Breakdown
 
-![image](https://github.com/user-attachments/assets/f009da86-078b-4a9c-9afb-d33a67d157b7)
+![image](https://github.com/user-attachments/assets/9e7a34ee-0f33-4229-8c23-2221c48c9e98)
+
 
 
 
@@ -180,7 +182,8 @@ The Community Management team moderates the Qubic Discord server and Telegram ch
 
 **Q. Who is part of Qubic Core Services Community Management?**
 
-!![image](https://github.com/user-attachments/assets/36866c0d-60d7-484c-a06c-f6e59fc251ad)
+![image](https://github.com/user-attachments/assets/f88de62d-2184-4fca-bdb1-959f4fd1ff48)
+
 
 **Disclaimer:** While the Community Team does not currently require assistance from volunteers, we greatly appreciate contributors who support the community. If volunteers wish to participate in moderation tasks, their involvement will be reviewed on a case-by-case basis.
 
