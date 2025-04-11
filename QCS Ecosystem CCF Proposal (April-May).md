@@ -11,7 +11,8 @@ Sent 135 billion QUBIC to wallet ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDH
 
 - Delivery of the Madrid Hackathon. 120+ hackers and 3 new ecosystem projects.  
 - Legal entity that allows Qubic to sign formal contracts and partnerships.  
-- Wallet Connect and Metamask snap integrations. Allowing developers and investors to connect their wallets to the Qubic network  
+- Wallet Connect and Metamask snap integrations. Allowing developers and investors to connect their wallets to the Qubic network
+- [DefiLlama Qubic Adapter](https://defillama.com/chain/qubic)
 - Qatum integration that allows external mining facilities to connect their miners more easily to the Qubic network.  
 - Ambassador Program Season 2. Successfully onboarded 6 local communities across the global most notably France, Spain, Nomads USA, Turkey and Nigeria.  
 - Various strategic partnerships notably Onyze, Alastria, Communidad Madrid.  
