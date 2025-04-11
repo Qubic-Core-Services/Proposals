@@ -44,7 +44,6 @@ Sent 25 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFAT
 - Smashing Blocks IPO  
 - ICLM AI scientist conference. The ecosystem team will also attend Consensus and Token 2049  
 - Hackathon(s) in Q3-Q4  
-- Development of the Qubic explorer, wallets and integration with Qubic Connect  
 - Tier 1 exchange depending on action price and metrics (e.g. daily volume)  
 - Launch Qubic ETP depending on action price and metrics  
 - Expand Qubic presence in North America and South East-Asia  
