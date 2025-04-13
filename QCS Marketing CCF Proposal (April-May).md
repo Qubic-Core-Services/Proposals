@@ -1,10 +1,10 @@
 # QCS Marketing CCF Proposal
 
-Sent 198.7 billion QUBIC to wallet MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD to support marketing. The Qubic amount was calculated using a valuation of 1000 USDT per billion.
+Sent 180.6 billion QUBIC to wallet MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD to support marketing. The Qubic amount was calculated using a valuation of 1100 USDT per billion.
 
 ## Available Options:
 - **Option 0**: No, I don’t want  
-- **Option 1**: Yes, approved the budget of 198.7 bln QUBIC.
+- **Option 1**: Yes, approved the budget of 180.6 bln QUBIC.
 
 
 ## How We Used Past Funding in Q1 ## 
