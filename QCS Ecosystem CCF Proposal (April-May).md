@@ -1,5 +1,5 @@
 # QCS Ecosystem CCF Proposal #
-Sent 119,9 billion QUBIC to wallet ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDHRIFWDJFUCTRZE to support ecosystem development. The Qubic amount was calculated using a valuation of 1000 USDT per billion.
+Sent 119,9 billion QUBIC to wallet ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDHRIFWDJFUCTRZE to support ecosystem development. The Qubic amount was calculated using a valuation of 1100 USDT per billion.
 
 
 ## Available Options:
