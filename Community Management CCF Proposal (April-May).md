@@ -1,10 +1,10 @@
 # Community Management CCF Proposal
 
-Sent 25 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management. The Qubic amount was calculated using a valuation of 1000 USDT per billion.
+Sent 22.7 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI to support Community Management. The Qubic amount was calculated using a valuation of 1100 USDT per billion.
 
 ## Available Options:
 - **Option 0**: No, I don’t want  
-- **Option 1**: Yes, approved the budget of 25bln QUBIC.
+- **Option 1**: Yes, approved the budget of 22.7bln QUBIC.
 
 
 ## How We Used Past Funding in Q1 ## 
