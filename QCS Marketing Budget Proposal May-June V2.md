@@ -1,0 +1,116 @@
+# Qubic Core Services (QCS)  
+## Marketing Budget Proposal  
+
+---
+
+## Proposal Summary
+
+NOTE THAT THIS PROPOSAL ONLY COVERS MAY-JUNE. THE OTHER PROPOSAL FOCUSSES ON APRIL
+
+### Vote #2 — **May & June Budget**  
+> **Amount**: **63.73 billion QUBIC**  
+> **Destination Wallet**: `MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD`  
+> **Rate Used**: 1 billion QUBIC = 1100 USDT  
+
+| Option | Description                                    |
+| :----: | ---------------------------------------------- |
+| **0**  | No — do **not** approve the 63.73 bln budget   |
+| **1**  | Yes — **approve** the 63.73 bln budget         |
+
+---
+
+## Qubic Marketing Plan  
+### *(April — June 2025)*  
+
+#### State of Qubic Marketing
+- Token market remains **volatile** → disciplined spend + global scale / local messaging is critical.  
+- Marketing must **build trust, visibility, momentum**, and align tightly with the ecosystem & QCT roadmap.  
+- **Focused repositioning**: Qubic as *the backbone of decentralized AI & compute* with simplified messaging and clean web‑comms.  
+- Activate **Qubic Ambassadors** + **Qubic International Collaborators Network (QUICN)** for global reach and local activations.  
+- Operate on **bi‑weekly sprints** (4 languages) → *test → measure → report → learn* in Q2.  
+
+#### Strategic Focus (Apr – Jun)
+
+1. **Simplify Messaging**  
+   - Sharpen narrative around decentralized AI / compute.  
+   - Standardize public messaging & assets.  
+   - Lay the foundation for **organic content growth**.  
+
+2. **Build a Disciplined & International Engine**  
+   - Bi‑weekly sprints with defined outputs.  
+   - Consistent weekly campaigns on shipped builds / partnerships.  
+   - Multilingual content: **Chinese, Spanish, French, English**.  
+
+3. **Execute Foundation & Campaigns**  
+   - *CertiK Speed Test* & continued *Mad Hack* content.  
+   - Spotlight ecosystem wins (MLM, incubations, etc.).  
+   - Launch **Qubic Academy** campaigns aligned to roadmap items.  
+
+#### Execution Timeline
+
+| Month | Key Deliverables |
+| ----- | ---------------- |
+| **April** | Mad Hack videos, CertiK Speed Test campaign |
+| **May**   | Simplified brand narrative & first campaign; establish **QUICN** collaborators |
+| **June**  | Launch Qubic Academy & Podcast; release **qubic.org** v2 (EN) & socials; prep multi‑lingual channels (ES/FR/ZH) |
+| **Pipeline (TBD)** | Chainspect Integration · ANNA v0.2 · CertiK Skynet Audit · Support Vottun Bridge, Nostromo, QSwap, Uniswap‑on‑Qubic |
+
+---
+
+## Proposed Marketing Budget
+
+### Vote #1 — **April Spend** : **\$51 K**
+
+#### Shipped Programs
+- **Mad Hack Campaign**  
+- **CertiK Speed Test Campaign**
+
+| Category | Planned | **Actual** | ∆ Savings |
+| -------- | -------:| ----------:| --------: |
+| *Unpaid Feb/Mar Mad Hack* <br>Travel + Printing + Software | \$7,500 | \$7,500 | \$0 |
+| Campaigns (2) | \$1,500 | \$1,700 | **–\$200** |
+| Salaries (5 contributors) | \$49,000 | \$39,000 | **+\$10,000** |
+| Contractors & Contributors (2) | \$10,000 | \$0 | +\$10,000* |
+| Channels (LI, X) | \$1,550 | \$1,550 | \$0 |
+| Software | \$4,284 | \$1,710 | **+\$2,574** |
+| **Total** | **\$74,834** | **\$51,460** | **+\$23,374** |
+
+\*Deferred; not engaged in April.
+
+---
+
+### Vote #2 — **May & June**  
+
+| Month | Proposed Spend | Headcount Model |
+| ----- | -------------: | --------------- |
+| **May** | **\$49 K** | Single Marketing Lead + agency/contractor support |
+| **June** | **\$40 K** | Same as May; costs taper after launch milestones |
+
+> **Note**: May + June costs are inter‑dependent (multi‑month commitments).
+
+---
+
+## Organizational Realignment
+
+1. **Lean Team** → **1 Marketing Lead** (Jen King) + volunteers, contractors, ambassadors  
+2. Salaries paid in **QUBIC** per individual agreements  
+3. Contributors engaged **ad‑hoc** to meet campaign needs  
+
+---
+
+## Governance & Transparency
+
+- **Unused funds** (e.g., if QUBIC price rises) will cover future expenses **or** be returned to the CCF upon QCS dissolution.  
+- All transactions, salary details, expenditures, and progress are publicly logged at **<https://q-c-s.com/>**.  
+
+---
+
+### Current Marketing Roster
+| Role | Name | Status |
+| ---- | ---- | ------ |
+| **Workgroup Lead** | Jennifer King | **Paid** |
+| Intl. Marketing Contributors | TBD | Pending |
+| Contractors & Consultants | *Ad‑hoc* | TBD |
+
+---
+*Last updated · 2025‑04‑21*
