@@ -1,8 +1,4 @@
-### Vote #1 — April Spend  (\$51 K)
-
----
-
-### Vote #1 — April Marketing Budget
+### Vote #1 — April Marketing CCF Proposal (\$51 K)
 
 > **Amount**: **39.2 billion QUBIC**  
 > **Destination Wallet**: `MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD`  
