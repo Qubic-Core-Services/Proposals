@@ -4,14 +4,14 @@
 
 ### Vote #1 — April Marketing Budget
 
-> **Amount**: **36.3 billion QUBIC**  
+> **Amount**: **39.2 billion QUBIC**  
 > **Destination Wallet**: `MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD`  
-> **Valuation Used**: 1 billion QUBIC = 1100 USDT  
+> **Valuation Used**: 1 billion QUBIC = 1300 USDT  
 
 | Option | Description                                              |
 | :----: | -------------------------------------------------------- |
-| **0**  | No — *do not approve* the 36.3 bln QUBIC budget          |
-| **1**  | Yes — *approve* the 36.3 bln QUBIC budget                |
+| **0**  | No — *do not approve* the 39.2 bln QUBIC budget          |
+| **1**  | Yes — *approve* the 39.2 bln QUBIC budget                |
 
 ---
 
