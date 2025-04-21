@@ -75,6 +75,26 @@
 2. **Scalable Support**  
    - Engage volunteers, ambassadors, and specialized agencies *ad hoc* to hit campaign objectives while containing fixed costs.  
 
----
-*Last updated · 2025‑04‑21*
+### Proposed Marketing Budget Detail
+
+![image](https://github.com/user-attachments/assets/3adfd4fc-1603-42ba-81cb-5cbc24769e82)
+
+
+> **May & June are inter‑dependent** — costs accrue across two months or require a three‑month minimum commitment.  
+> [Link to New Comms Strategy & Website Proposal](https://drive.google.com/file/d/1MoeaAQSL12Jd1Pvnvh6JtQ02yIe1tKWC/view?usp=sharing)
+
+#### Notes
+- From **May onward**, the team is reduced to **one independent‑contractor lead**, supported by volunteers plus paid contractors, contributors, and agencies as required.  
+- **Salaries are paid in QUBIC** according to individual agreements.
+
+#### Governance
+- **Unspent funds** (e.g., if QUBIC’s market value rises) will be used to cover upcoming expenses **or** returned to the **CCF** should QCS dissolve.  
+- QCS maintains full transparency via published **transaction history, salary details, expenditures, and objective progress** at **<https://q-c-s.com/>**.
+
+#### Marketing Roster
+| Role | Name | Status |
+| ---- | ---- | ------ |
+| Workgroup Lead | Jennifer | Paid |
+| Intl. Marketing Contributors | TBD | Pending |
+| Contractors & Consultants | Ad‑hoc (budgeted) | TBD |
 
