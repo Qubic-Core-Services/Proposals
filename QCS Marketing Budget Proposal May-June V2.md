@@ -1,21 +1,13 @@
-# Qubic Core Services (QCS)  
-## Marketing Budget Proposal  
+### Vote #2 — **May & June CCF Proposal ($49K May + $40K June)**  
 
----
-
-## Proposal Summary
-
-NOTE THAT THIS PROPOSAL ONLY COVERS MAY-JUNE. THE OTHER PROPOSAL FOCUSSES ON APRIL
-
-### Vote #2 — **May & June Budget**  
-> **Amount**: **63.73 billion QUBIC**  
+> **Amount**: **69.1 billion QUBIC**  
 > **Destination Wallet**: `MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD`  
-> **Rate Used**: 1 billion QUBIC = 1100 USDT  
+> **Rate Used**: 1 billion QUBIC = 1300 USDT  
 
 | Option | Description                                    |
 | :----: | ---------------------------------------------- |
-| **0**  | No — do **not** approve the 63.73 bln budget   |
-| **1**  | Yes — **approve** the 63.73 bln budget         |
+| **0**  | No — do **not** approve the 69.1 bln budget   |
+| **1**  | Yes — **approve** the 69.1 bln budget         |
 
 ---
 
