@@ -1,5 +1,5 @@
-# Qubic Core Services (QCS)  
-## Marketing Budget Proposal  
+#Qubic Core Services (QCS)  
+##Marketing Budget Proposal  
 
 ---
 
