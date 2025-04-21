@@ -12,97 +12,69 @@
 ---
 
 ## Qubic Marketing Plan  
-### *(April — June 2025)*  
-
-#### State of Qubic Marketing
-- Token market remains **volatile** → disciplined spend + global scale / local messaging is critical.  
-- Marketing must **build trust, visibility, momentum**, and align tightly with the ecosystem & QCT roadmap.  
-- **Focused repositioning**: Qubic as *the backbone of decentralized AI & compute* with simplified messaging and clean web‑comms.  
-- Activate **Qubic Ambassadors** + **Qubic International Collaborators Network (QUICN)** for global reach and local activations.  
-- Operate on **bi‑weekly sprints** (4 languages) → *test → measure → report → learn* in Q2.  
-
-#### Strategic Focus (Apr – Jun)
-
-1. **Simplify Messaging**  
-   - Sharpen narrative around decentralized AI / compute.  
-   - Standardize public messaging & assets.  
-   - Lay the foundation for **organic content growth**.  
-
-2. **Build a Disciplined & International Engine**  
-   - Bi‑weekly sprints with defined outputs.  
-   - Consistent weekly campaigns on shipped builds / partnerships.  
-   - Multilingual content: **Chinese, Spanish, French, English**.  
-
-3. **Execute Foundation & Campaigns**  
-   - *CertiK Speed Test* & continued *Mad Hack* content.  
-   - Spotlight ecosystem wins (MLM, incubations, etc.).  
-   - Launch **Qubic Academy** campaigns aligned to roadmap items.  
-
-#### Execution Timeline
-
-| Month | Key Deliverables |
-| ----- | ---------------- |
-| **April** | Mad Hack videos, CertiK Speed Test campaign |
-| **May**   | Simplified brand narrative & first campaign; establish **QUICN** collaborators |
-| **June**  | Launch Qubic Academy & Podcast; release **qubic.org** v2 (EN) & socials; prep multi‑lingual channels (ES/FR/ZH) |
-| **Pipeline (TBD)** | Chainspect Integration · ANNA v0.2 · CertiK Skynet Audit · Support Vottun Bridge, Nostromo, QSwap, Uniswap‑on‑Qubic |
+*(April — June 2025)*
 
 ---
 
-## Proposed Marketing Budget
-
-### Vote #1 — **April Spend** : **\$51 K**
-
-#### Shipped Programs
-- **Mad Hack Campaign**  
-- **CertiK Speed Test Campaign**
-
-| Category | Planned | **Actual** | ∆ Savings |
-| -------- | -------:| ----------:| --------: |
-| *Unpaid Feb/Mar Mad Hack* <br>Travel + Printing + Software | \$7,500 | \$7,500 | \$0 |
-| Campaigns (2) | \$1,500 | \$1,700 | **–\$200** |
-| Salaries (5 contributors) | \$49,000 | \$39,000 | **+\$10,000** |
-| Contractors & Contributors (2) | \$10,000 | \$0 | +\$10,000* |
-| Channels (LI, X) | \$1,550 | \$1,550 | \$0 |
-| Software | \$4,284 | \$1,710 | **+\$2,574** |
-| **Total** | **\$74,834** | **\$51,460** | **+\$23,374** |
-
-\*Deferred; not engaged in April.
+## 1. State of Qubic Marketing
+- **Market Volatility**: Token price remains unstable → disciplined spend & global‑scale / local‑message balance is critical.  
+- **Core Mandate**: Build trust, visibility, and momentum while aligning tightly with ecosystem milestones and the QCT roadmap.  
+- **Focused Repositioning**: Present **Qubic** as *the backbone of decentralized AI, compute, and innovation* with simplified messaging and a cleaner web presence.  
+- **Community Amplification**: Activate **Qubic Ambassadors** and the **Qubic International Collaborators Network (QUICN)** for global reach and local activations.  
+- **Execution Rhythm**: Operate **bi‑weekly sprints** in four languages (EN/ES/FR/ZH) → *test → measure → report → learn* throughout Q2.  
 
 ---
 
-### Vote #2 — **May & June**  
+## 2. Strategic Focus (May — June)
 
-| Month | Proposed Spend | Headcount Model |
-| ----- | -------------: | --------------- |
-| **May** | **\$49 K** | Single Marketing Lead + agency/contractor support |
-| **June** | **\$40 K** | Same as May; costs taper after launch milestones |
+### 2.1 Simplify Messaging — *Clarify Audiences & Spark Conversation*
+- Sharpen and unify the narrative around decentralized AI, compute, and real‑world use cases.  
+- Standardize & simplify all public messaging touchpoints.  
+- Lay a foundation for **organic content growth** at global scale.  
 
-> **Note**: May + June costs are inter‑dependent (multi‑month commitments).
+### 2.2 Build a Disciplined & International Marketing Engine
+- **Bi‑weekly sprints** with clear deliverables.  
+- Consistent, high‑quality weekly campaigns spotlighting shipped builds & partnerships.  
+- Multilingual content streams: **Chinese, Spanish, French, English**.  
 
----
-
-## Organizational Realignment
-
-1. **Lean Team** → **1 Marketing Lead** (Jen King) + volunteers, contractors, ambassadors  
-2. Salaries paid in **QUBIC** per individual agreements  
-3. Contributors engaged **ad‑hoc** to meet campaign needs  
-
----
-
-## Governance & Transparency
-
-- **Unused funds** (e.g., if QUBIC price rises) will cover future expenses **or** be returned to the CCF upon QCS dissolution.  
-- All transactions, salary details, expenditures, and progress are publicly logged at **<https://q-c-s.com/>**.  
+### 2.3 Execute Foundation & Campaigns
+- **CertiK Speed Test** + continued **MadHack** video series.  
+- Spotlight ecosystem wins (e.g., MLM projects, incubation successes).  
+- Establish **Qubic Academy** presence; ship bi‑weekly campaigns aligned to roadmap (Vottun Bridge, QSwap, Nostromo, etc.).  
 
 ---
 
-### Current Marketing Roster
-| Role | Name | Status |
-| ---- | ---- | ------ |
-| **Workgroup Lead** | Jennifer King | **Paid** |
-| Intl. Marketing Contributors | TBD | Pending |
-| Contractors & Consultants | *Ad‑hoc* | TBD |
+## 3. Execution Timeline
+
+| Month | Major Deliverables |
+| ----- | ------------------ |
+| **April** | - Ship MadHack videos<br>- Launch CertiK Speed Test campaign |
+| **May** | - Simplify brand narrative & launch first narrative campaign<br>- Establish **QUICN** (EN/ES/FR/ZH collaborators) |
+| **June** | - Launch **Qubic Academy** & Podcast<br>- Release newly branded **qubic.org** (EN) & socials |
+| **June / July** | - Spin up multilingual channels & campaigns (ES / FR / ZH) |
+
+### In Pipeline (Timing TBD)
+- Chainspect Integration  
+- **ANNA v0.2**  
+- CertiK **Skynet Audit** launch  
 
 ---
-*Last updated · 2025‑04‑21*
+
+## 4. Roadmap & Ecosystem Alignment
+- Support key launches & milestones (Vottun Bridge, Nostromo, Uniswap‑on‑Qubic).  
+- Align all content/marketing with **real ecosystem delivery** and the QCT roadmap.  
+- Provide “**Campaign‑in‑a‑Box**” assets for Ambassadors & QUICN to amplify core promotions.  
+- Drive engagement via **Qubic Academy**, resource spotlights, and **bounty/badge competitions**.  
+
+---
+
+## 5. Organizational Realignment
+1. **Lean Team Structure**  
+   - Reduction to a **single Marketing Lead** — *Jen King*.  
+   - Predictable monthly salary supplemented by a flexible pool of contractors & contributors.  
+2. **Scalable Support**  
+   - Engage volunteers, ambassadors, and specialized agencies *ad hoc* to hit campaign objectives while containing fixed costs.  
+
+---
+*Last updated · 2025‑04‑21*
+
