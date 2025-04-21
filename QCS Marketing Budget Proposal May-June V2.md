@@ -48,7 +48,7 @@
 
 | Month | Major Deliverables |
 | ----- | ------------------ |
-| **April** | - Ship MadHack videos<br>- Launch CertiK Speed Test campaign |
+| **April** | - Shipped MadHack videos<br>- Launch CertiK Speed Test campaign |
 | **May** | - Simplify brand narrative & launch first narrative campaign<br>- Establish **QUICN** (EN/ES/FR/ZH collaborators) |
 | **June** | - Launch **Qubic Academy** & Podcast<br>- Release newly branded **qubic.org** (EN) & socials |
 | **June / July** | - Spin up multilingual channels & campaigns (ES / FR / ZH) |
