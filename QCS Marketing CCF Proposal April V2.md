@@ -17,18 +17,6 @@
 
 ---
 
-### Vote #2 — **May & June Budget**  
-> **Amount**: **63.73 billion QUBIC**  
-> **Destination Wallet**: `MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD`  
-> **Rate Used**: 1 billion QUBIC = 1100 USDT  
-
-| Option | Description                                    |
-| :----: | ---------------------------------------------- |
-| **0**  | No — do **not** approve the 63.73 bln budget   |
-| **1**  | Yes — **approve** the 63.73 bln budget         |
-
----
-
 ## Qubic Marketing Plan  
 ### *(April — June 2025)*  
 
