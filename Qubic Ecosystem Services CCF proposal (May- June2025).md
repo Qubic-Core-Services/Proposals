@@ -13,7 +13,7 @@
 
 | Delivered | Highlights | Impact |
 | ----- | ----- | ----- |
-| Grants & Incubation program | 10+ external teams sourced & onboardedBi-weekly reporting process to update all stakeholders | First grants delivered and first incubation projects. |
+| Grants & Incubation program | 10+ external teams sourced & onboarded - Bi-weekly reporting process to update all stakeholders | First grants delivered and first incubation projects. |
 | 15 Grant projects | 9 finished • 3 \~80 % • 1 blocked • 2 on hold | $135 k distributed, 85 % exec |
 | 6 Incubations | 2 main‑net • 1 90 % • 1 80 % ready • 2 on hold | $142 k deployed |
 | Docs revamp & QA process | docs.qubic.org updated; milestone QA template | Repeatable shipping path |
