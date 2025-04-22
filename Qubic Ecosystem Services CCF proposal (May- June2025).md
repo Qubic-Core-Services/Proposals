@@ -124,10 +124,11 @@ If a specific listing needs ecosystem fire‑power, we’ll raise a separate mic
 
 Q 6\. How will you keep us in the loop?
 
-	•	Weekly status post in \#QES showing: roadmap board,next‑week focus, blockers.  
-	•	Bi‑weekly deep‑dive (same data \+ milestone QA results).  
-	•	Open Q\&A thread under every report (24‑48 h response).  
-	•	Private Discord workspace for incubations/grants to share code & get QA help—read‑only “observer” role available for computors who want to watch.  
+ - Weekly status post in #QES showing: roadmap board,next‑week focus, blockers.  
+ - Bi‑weekly deep‑dive (same data \+ milestone QA results).  
+ - Open Q&A thread under every report (24‑48 h response).  
+ - Private Discord workspace for incubations/grants to share code & get QA help—read‑only “observer” role available for computors who want to watch.
+
 Q 7\. What if we need a new hackathon or a new initiative?
 
 In order to provide full transparency and the opportunity for Computors to decide where to spend funds, QES will be responsible to regularly identify new initiatives, such as Hackathons and Open Challenges, and draft a focused proposal (scope, costs, KPIs) so it can be voted. This way all initiatives can be measured independently. 
