@@ -1,4 +1,4 @@
-# **Vote \#2 Qubic Ecosystem Services CCF proposal (May - June 2025)**
+# **Qubic Ecosystem Services CCF proposal (May - June 2025)**
 
 **Amount:** 97  Billion QUBIC  
 **Destinatiton wallet** ```ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDHRIFWDJFUCTRZE``` <br>
