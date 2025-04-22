@@ -1,7 +1,7 @@
 # **Qubic Ecosystem Services CCF proposal (May - June 2025)**
 
 **Amount:** 97  Billion QUBIC
-**Destinatiton wallet** ```ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDHRIFWDJFUCTRZE``` <br>
+**Destination wallet** ```ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDHRIFWDJFUCTRZE``` <br>
 
 **Rate used:** 1 billion QUBIC \= 1400USDT
 
