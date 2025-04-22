@@ -88,7 +88,7 @@ Dependencies: Launch dates assume incubation teams complete their own code and Q
 
 ## **6- Governance & Transparency**
 
-\- Lead Alber, associate lead Daniel.  
+\- Director Alber, corporate relations and strategy Daniel.  
 \- Bi‑weekly Discord reports in \#QES include milestone status, and open Q\&A thread.  
 \- Post‑voting dApp, all new grants and incubation projects must pass YES/NO wallet vote.
 
