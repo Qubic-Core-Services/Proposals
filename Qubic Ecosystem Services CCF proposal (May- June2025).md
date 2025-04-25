@@ -1,4 +1,4 @@
-# Qubic Ecosystem Services CCF Proposal (May - June 2025)
+# Ecosystem Services CCF Proposal (May - June 2025)
 
 **Amount:** 97 Billion QUBIC\
 **Destination Wallet:** `ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDHRIFWDJFUCTRZE`\
@@ -125,7 +125,7 @@ The base 97 billion QUBIC request only covers run-the-business ecosystem work.
 
 ---
 
-# Qubic生态系统服务CCF提案（2025年5月至6月）
+# 生态系统服务CCF提案（2025年5月至6月）
 
 **金额：** 970亿 QUBIC\
 **目标钱包：** `ECOSYSIWDJKGCGFUKJDKAELJXGVCBHKOWNULFIRGLEGPBDHRIFWDJFUCTRZE`\
