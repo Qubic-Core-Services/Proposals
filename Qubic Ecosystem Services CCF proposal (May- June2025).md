@@ -40,7 +40,13 @@ To achieve this, the Ecosystem team has decided to update the way we submit prop
 
 *New deliverables will be joined to the roadmap that QCT and other Qubic teams have. Any existing deliverables assigned to the ecosystem team will be rolled into QES.*
 
-**Dependencies:** Launch dates assume incubation teams complete their own code and QA on schedule; QES unblocks but cannot write all code for them.
+**Dependencies:** Launch dates assume incubation teams complete their own code and QA on schedule; QES unblocks but cannot write all code for them. 
+
+To maintain accountability for all duties assigned to QES, and given our responsibilities to the community, we want to clarify that QES can only be held responsible for outcomes of initiatives that we directly manage or approve.
+
+If any proposals are introduced that significantly modify the Grants & Incubation governance model or initiatives currently managed by QES, we’ll consider those out of our scope unless they’re aligned with our roadmap or directly coordinated with us.
+
+This ensures clear accountability and avoids confusion around ownership of execution and results.
 
 ## 4. Proposed QES Budget Detail (USD)
 
@@ -162,6 +168,12 @@ The base 97 billion QUBIC request only covers run-the-business ecosystem work.
 *新交付物将加入QCT和其他Qubic团队的路线图。现有的分配给生态系统团队的任何交付物将转入QES。*
 
 **依赖性：** 发布日期假设孵化团队按计划完成自己的代码和QA；QES负责疏通但无法为他们编写所有代码。
+
+为了对 QES 所承担的所有职责保持问责，并考虑到我们对社区的责任，我们想明确指出：QES 只能对我们直接管理或批准的项目结果负责。
+
+如果有任何提案对当前由 QES 管理的 Grants & Incubation 治理模式或相关项目进行重大修改，除非这些修改与我们的路线图保持一致或经过我们直接协调，否则我们将视其为超出 QES 职责范围。
+
+这样可以确保责任清晰，避免在执行和结果归属方面产生混淆。
 
 ## 4. 拟议QES预算明细（美元）
 
