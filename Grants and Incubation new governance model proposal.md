@@ -41,7 +41,7 @@ We are finalizing the rules around how proposals are submitted and approved, as 
 
 We expect the first version of the voting app to be launched by June 2025. The votes will be published online in the dApp itself, and we will also announce the results on Discord.
 
-This dApp does not require funding given it was already included in the past approved proposal “Ecosystem Services CCF Proposal (May - June 2025)”
+This dApp does not require funding given it was already included in the past approved proposal [Ecosystem Services May - June 2025 funding CCF proposal](https://github.com/Qubic-Core-Services/Proposals/blob/0609a7e178e4e744f1cd19354e0d54d3175dffde/Qubic%20Ecosystem%20Services%20CCF%20proposal%20(May-%20June2025).md)
 
 The end-to-end process will be:
 
@@ -59,4 +59,4 @@ Ecosystem Services team commits to replace the Grants Committee with the Communi
 
 ## 4- Proposed Ecosystem budget detail (USD)
 
-No budget is needed for this proposal as long as [“Qubic Ecosystem Services May - June 2025 funding CCF proposal](https://github.com/Qubic-Core-Services/Proposals/blob/0609a7e178e4e744f1cd19354e0d54d3175dffde/Qubic%20Ecosystem%20Services%20CCF%20proposal%20(May-%20June2025).md)” due to lack of runway for the next period.
+No budget is needed for this proposal as the costs were included in the [Ecosystem Services May - June 2025 funding CCF proposal](https://github.com/Qubic-Core-Services/Proposals/blob/0609a7e178e4e744f1cd19354e0d54d3175dffde/Qubic%20Ecosystem%20Services%20CCF%20proposal%20(May-%20June2025).md)
