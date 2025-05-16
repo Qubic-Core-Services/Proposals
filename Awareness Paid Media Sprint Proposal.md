@@ -1,16 +1,18 @@
 # Awareness Paid Media Sprint Proposal
 
 **Sprint Duration:** May 21– July 21, 2025
+
 **Funding Request:** 35.2 billion QUBIC / 1420 per billion (\~\$50,000 USDT) to wallet MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD
+
 **Use of Funds:** Third-party marketing only (no salaries, no internal ops)
 
 ## TL;DR
 
-Requesting 35.2B QUBIC (\~\$50K) for an external-only, one-month marketing sprint (May 21 – July 21).
-Timed to capitalize on market momentum and planned announcements.
-The campaign includes Cointribune, Cointelegraph, The Block, CoinGecko, Top-Tier Influencer co-hosted AMAs, and targeted ads.
-Success is measured by hitting at least 2 out of 4 KPIs by June 30.
-Vote YES to activate a focused, high-leverage outreach push during this prime window.
+- Requesting 35.2B QUBIC (\~\$50K) for an external-only, one-month marketing sprint (May 21 – July 21).
+- Timed to capitalize on market momentum and planned announcements.
+- The campaign includes Cointribune, Cointelegraph, The Block, CoinGecko, Top-Tier Influencer co-hosted AMAs, and targeted ads.
+- Success is measured by hitting at least 2 out of 4 KPIs by June 30.
+- Vote YES to activate a focused, high-leverage outreach push during this prime window.
 
 ## Why Now?
 
