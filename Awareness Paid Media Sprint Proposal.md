@@ -61,7 +61,9 @@
 ## Execution Team
 
 **Lead:** Jen
+
 **Support:** Volunteers manage creatives, bookings, and KPI tracking.
+
 **Transparency:** All invoices and campaign stats will be posted in Discord.
 
 ## Success Criteria (by 30 June 2025)
