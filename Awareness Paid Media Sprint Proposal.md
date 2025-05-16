@@ -1,7 +1,7 @@
 # Awareness Paid Media Sprint Proposal
 
 **Sprint Duration:** May 21– July 21, 2025
-**Funding Request:** 35.2 billion QUBIC / 1420 per billion (\~\$50,000 USDT) to wallet `MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD`
+**Funding Request:** 35.2 billion QUBIC / 1420 per billion (\~\$50,000 USDT) to wallet MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD
 **Use of Funds:** Third-party marketing only (no salaries, no internal ops)
 
 ## TL;DR
