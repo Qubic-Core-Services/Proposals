@@ -18,19 +18,19 @@
 
 ### Active Window
 
-The next 4-8 weeks are a rare window of high engagement before the summer slowdown. Now is the time to capture attention from builders, investors, and the broader crypto community.
+- The next 4-8 weeks are a rare window of high engagement before the summer slowdown. Now is the time to capture attention from builders, investors, and the broader crypto community.
 
 ### Launch Alignment
 
-We’re rolling out multiple products: Qubic Academy, Vottun Bridge, Nostromo Launch Pad, and the Tickchain Podcast. Each one builds momentum, so the timing of this campaign is critical.
+- We’re rolling out multiple products: Qubic Academy, Vottun Bridge, Nostromo Launch Pad, and the Tickchain Podcast. Each one builds momentum, so the timing of this campaign is critical.
 
 ### Press & Promotion
 
-Media coverage needs at least 48 hours' lead time. To hit those cycles and maximize exposure, we need to lock in the budget now.
+- Media coverage needs at least 48 hours' lead time. To hit those cycles and maximize exposure, we need to lock in the budget now.
 
 ### Act Fast
 
-Securing resources today ensures every launch lands with visibility, reach, and the compounding impact this moment deserves.
+- Securing resources today ensures every launch lands with visibility, reach, and the compounding impact this moment deserves.
 
 ## Sprint Goals (21 May – 21 July)
 
@@ -56,7 +56,7 @@ Securing resources today ensures every launch lands with visibility, reach, and 
 
 ## Spend Plan (Total: \$50,000 USDT)
 
-Surplus Handling: Any excess rolls into the next sprint.
+- Surplus Handling: Any excess rolls into the next sprint.
 
 ## Execution Team
 
@@ -66,12 +66,7 @@ Surplus Handling: Any excess rolls into the next sprint.
 
 ## Success Criteria (by 30 June 2025)
 
-Publish a full budget breakdown and proof-of-performance screenshots backed by detailed reporting.
-Achieve at least 2 of the 4 KPIs listed above.
-If successful: submit a follow-up sprint proposal for July 21 – Sept 21.
-If unsuccessful: pause spending.
-
-## Vote
-
-* **Option 0:** No
-* **Option 1:** Yes, fund 36 billion QUBIC
+- Publish a full budget breakdown and proof-of-performance screenshots backed by detailed reporting.
+- Achieve at least 2 of the 4 KPIs listed above.
+- If successful: submit a follow-up sprint proposal for July 21 – Sept 21.
+- If unsuccessful: pause spending.
