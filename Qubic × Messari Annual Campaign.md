@@ -71,7 +71,7 @@ Each quarter includes:
 * **A Pulse Report from Messari**
   Focused on Qubic’s updates, milestones, usage, and what people are saying in the market.
 
-### Promotion Campaign - Demonstrate Leadership & Earn Trust
+![image](https://github.com/user-attachments/assets/0565d237-964e-4133-ab61-9995f14d19a4)
 
 **Messari:**
 
