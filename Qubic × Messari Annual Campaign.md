@@ -86,6 +86,11 @@ Each quarter includes:
 * Twitter Space on Messari X account & Qubic AMA
   Timed with each report to engage the community and highlight Qubic’s progress
 
+![image](https://github.com/user-attachments/assets/812a6547-4e20-4327-9050-0a179b3d30ea)
+
+![image](https://github.com/user-attachments/assets/9fe77557-f130-42e7-a732-c00f3ac36722)
+
+
 ## Budget Overview
 
 | Item                 | Amount       |
