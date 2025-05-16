@@ -10,7 +10,9 @@
 ## Spend Plan (Total: \$100,000 USD)
 
 **Campaign Duration:** 1 Year - June 2025 to June 2026
+
 **Funding Request:** 70.5 billion QUBIC / 1420 per billion (\~\$100,000 USDT) to wallet `MARKETVWSHMHFFNKEUSIPLIDAYYAWDYJXYQTIBPVOCEZYLYXHBPYYKQAKLJD`
+
 **Use of Funds:** Third-party marketing + advertising & promotional support
 *(no salaries or operations)*
 
