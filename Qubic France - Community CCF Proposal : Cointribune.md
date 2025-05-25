@@ -1,6 +1,3 @@
-Here’s the full proposal converted to GitHub-flavored Markdown, with English and Chinese sections preserved and **no emojis**.
-
-```md
 # Qubic France – Community CCF Proposal: **Cointribune**
 
 ## Sprint Details
