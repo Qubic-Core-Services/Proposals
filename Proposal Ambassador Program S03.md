@@ -108,7 +108,7 @@ Community Leads provide a monthly report to the community with the progress made
 
 <https://docs.google.com/spreadsheets/d/1eT8KuqquNSDpnTBXLWREgH2TCqxZusW5rxeOG5ruxw8/edit?usp=sharing>
 
-The expenses can be tracked here through publicly available wallets broken down by local communities too. Community Leads will own their finances but Kimz, Raziah, Drac, Jort and Talentnodes form a finance committee to make sure funding is well spent.  
+The expenses can be tracked here through publicly available wallets broken down by local communities too. Community Leads will own their finances but Kimz, Raziah, Drac, Jort and Talentnodes form a finance committee that oversees spending.  
 
 The overall increase in comparison with season 2 is $9k (total $46k in S022). In comparison, we‘re onboarding 3 new communities and are looking to add a 4th community with South Korea. All these locations are strategically important locations for Qubic if we are to grow the network.  
 
