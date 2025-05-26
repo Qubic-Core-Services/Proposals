@@ -26,7 +26,7 @@ Link to FAQ:
 Qubic Ambassadors (Qubicans) are passionate individuals from around the globe that help grow the Qubic ecosystem. There are two distinct types of ambassador roles, each contributing to the ecosystem in a unique way:  
 **Qubican Community Leaders** – Lead the local community, manage the local treasury, local strategy and Discord. They also take the lead to organise local meetups, conferences, workshops, and (virtual) events to engage and expand Qubic's presence in your area.  
 **Qubican Ambassadors** – are members of local Qubican communities and are organized in workgroups that complete specialized tasks like content creation, community management, partnership/investor introductions and more. Ambassador can have both technical and non-technical backgrounds.  
-**Qubican Contributors** - are members of local Qubican but who still need to earn their stripes.  
+**Qubican Contributors** - are members of local Qubic communities but who still need to earn their stripes.  
 
 Program Managers: Raziah, Kimz  
 Community Leads: Seb, Raziah (France), Kimz (Nomad), SpaceCaddet, RetroDrive (USA), Drac, Jort (Spain), Emmanuel, Xxodux (Nigeria), Yigit, Alaracam (Turkey)  
