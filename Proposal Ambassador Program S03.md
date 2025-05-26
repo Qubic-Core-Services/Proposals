@@ -76,7 +76,7 @@ Specifically the ecosystem team will develop a “train the trainer” program w
 As Qubic doesn't have Qubic Ecosystem Representatives anymore, the ecosystem team will also train Community Leads how to represent Qubic institutionally.  
 
 ### Content & Visibility Goal
-Enable community-driven content creation such as podcasts, videos, memes, and translations by providing branded templates, a creative asset library, publishing guidelines, and content bounties through Zealy or direct support.
+Enable community-driven content creation such as social media posts, podcasts, videos and blogs by providing branded templates, a creative asset library, publishing guidelines, and content bounties through Zealy or direct support.
 
 ### Local Events & Hackathons
 Support self-managed hackathons, educational workshops, and university outreach led by ambassadors by sharing event templates, provide micro-funding, connect leads to core team for support, and enable peer learning.
