@@ -48,14 +48,21 @@ The ambassador program will focus on achieving **5 objectives** in Season 3:
 ## Season 2 Review
 
 ### Impact achievements
-- We grew the program from 20 to roughly 70 ambassadors.  
-- We onboarded 12 community leads that actively lead and coordinate local Qubic communities.  
-- After the first event in Slovenia. We organized 5 events across Spain, Turkey and Nigeria but also supported Qubic core teams at the Madrid Hackathon.  
-- We represented Qubic at Paris Blockchain Week, Crypto XR and Token 2049.  
-- Delivered a top 3 winner of the Madrid Hackathon (Qulang) and recruited several attendees to join the hackathon.  
-- We further increased the number of impressions and engagement on X. For example Qubic France product 50 videos by recognized influencers, reaching around 3m views (YouTube/X)  
-- Creation of three new communities: Germany, Russia and China  
-- Two fast growing X podcasts (Qubic & Chill and La Qubineta)  
+- We grew the program from 20 to roughly 70 ambassadors.
+- We onboarded 12 community leads that actively lead and coordinate local Qubic communities.
+- After the first event in Slovenia. We organized 5 events across Spain, Turkey and Nigeria but also supported Qubic core teams at the Madrid Hackathon. 
+- We represented Qubic at Paris Blockchain Week, Crypto XR, Token 2049 and futurlabs.
+- Delivered a top 3 winner of the Madrid Hackathon (Qulang) and recruited several attendees to join the hackathon.
+- We further increased the number of impressions and engagement on X. For example Qubic France product 50 videos by recognized influencers, reaching around 3m views (YouTube/X).
+- Creation of three new communities: Germany, Russia and China.
+- Two fast growing X podcasts (Qubic & Chill and La Qubineta).
+- Qubic Turkey has formed partnerships with universities to work with developers in the near future 
+- Creation of a USA program to provide a fast-growing, low-cost potential for future ambassadors. 
+- Each community has launched its own social network and is gaining in visibility/engagement.
+- Collaboration with local media, partners and an ongoing proposal at a highly negotiated price to help the community.
+- Qubic Nigeria partnership with 2 universities and a crypto association under discussion.
+- France, Turkey and USA connected with several developer communities to create future projects on Qubic.
+
 
 ### Challenges & learnings
 - Community stands and falls with engagement. Not every new joiner is automatically an ambassador. Only members that actively contribute, earn the rank of ambassador should become an ambassador.  
