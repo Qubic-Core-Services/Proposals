@@ -106,6 +106,8 @@ Community Leads provide a monthly report to the community with the progress made
 
 ## Budget
 
+![image](https://github.com/user-attachments/assets/6e614280-cfa8-4749-98c4-efce6fbdf671)
+
 <https://docs.google.com/spreadsheets/d/1eT8KuqquNSDpnTBXLWREgH2TCqxZusW5rxeOG5ruxw8/edit?usp=sharing>
 
 The expenses can be tracked here through publicly available wallets broken down by local communities too. Community Leads will own their finances but Kimz, Raziah, Drac, Jort and Talentnodes form a finance committee that oversees spending.  
