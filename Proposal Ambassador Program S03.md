@@ -37,7 +37,7 @@ To-be onboarded Leads: Martis (Germany), Xingyuan (China, Chinuk, Kavatak (Russi
 Community Leads together form a “quorum” that collectively votes on key-decisions and the direction of the ambassador program.  
 
 The ambassador program will focus on achieving **5 objectives** in Season 3:  
-1. **Community Expansion & Maturity:** strengthen current communities (Germany, Russia, China) and launch new ones in strategic important locations (Korea).  
+1. **Community Expansion & Maturity:** strengthen current and new communities (Germany, Russia, China) and launch new ones in important strategic locations in Asia (South Korea, Singapore, Hong Kong, Vietnam) and North America (USA and Canada).  
 2. **Functional Integration with Core Teams:** train selected ambassadors to support ecosystem and marketing teams locally with different tasks.  
 3. **Content & Visibility Goal:** Increase global reach with decentralized content pipelines  
 4. **Local Events & Hackathons:** Empower regions to run self-managed IRL impact initiatives  
