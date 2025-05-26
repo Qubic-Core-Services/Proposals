@@ -18,7 +18,6 @@ The season covers a period of 2 months.
 Link to full proposal (including team governance, CL and workgroup requirements): <https://docs.google.com/document/d/1kqdzcqg3TEXuGPU9Jdyi69lVN1iXMUjP3P_0QMdGp2w/edit?usp=sharing>  
 
 Link to FAQ:
-
 <https://docs.google.com/document/d/1UiLQ_UWmabSYPF4Ah9y7vy45qZ7ET5eT44H8vDPuuMk/edit?usp=sharing>
 
 ---
