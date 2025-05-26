@@ -51,7 +51,7 @@ The ambassador program will focus on achieving **5 objectives** in Season 3:
 - We grew the program from 20 to roughly 70 ambassadors.
 - We onboarded 12 community leads that actively lead and coordinate local Qubic communities.
 - After the first event in Slovenia. We organized 5 events across Spain, Turkey and Nigeria but also supported Qubic core teams at the Madrid Hackathon. 
-- We represented Qubic at Paris Blockchain Week, Crypto XR, Token 2049 and futurlabs.
+- We represented Qubic at Paris Blockchain Week, Crypto XR, Token 2049 and Future labs Basel, Yildiz technical data science and artificial intelligence Turkey.
 - Delivered a top 3 winner of the Madrid Hackathon (Qulang) and recruited several attendees to join the hackathon.
 - We further increased the number of impressions and engagement on X. For example Qubic France product 50 videos by recognized influencers, reaching around 3m views (YouTube/X).
 - Creation of three new communities: Germany, Russia and China.
@@ -76,6 +76,15 @@ The ambassador program will focus on achieving **5 objectives** in Season 3:
 
 ### Community Expansion & Maturity
 Launch and support 4 new regional chapters (Germany, China, Russia,), including onboarding and activation by recruiting local leads, provide chapter starter kits, and activate communities via Zealy quests and Telegram missions.
+
+Organization of Qubic USA to establish a “low cost” roadmap to maximize visibility, participation in events and partnerships at lower cost.
+
+Focus on Asian countries in particular China, South Korea, Singapore and Hong Kong with the aim to set up several community programs and begin test phases (like we did with Qubic Germnany and Russia)
+
+Qubic Nigeria's international expansion to start building a model in Africa
+
+Signing collaborations with several universities in Turkey to enable students to create their own project with Qubic.
+
 
 ### Functional Integration with Core Teams
 Train ambassadors to support the ecosystem and marketing teams with business development, partnership introductions, academic introductions, creatives and social media posting, by creating learning paths, run onboarding workshops, and selecting top ambassadors.  
