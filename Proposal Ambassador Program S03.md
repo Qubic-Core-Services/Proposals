@@ -132,4 +132,6 @@ Ambassador Programs are popular in crypto and are funded differently depending o
 The Qubican program is run by some of Qubics biggest contributors. Together they form the Qubican Quorum. Program decisions are made by Quorum. Local Community decisions are made by the Community Leads together with their workgroups. Anyone can apply to start a local community as long as the requirements are met. Below an overview of the current governance structure. 
 Ambassadors can earn compensation by completing Zealy tasks or by helping their local communities.Both Program Program Managers and Community Leads are paid a monthly compensation, depending on the impact they had. Their impact is measured through the KPI’s mentioned above. Talentnodes, Jennifer and Alber are not paid and act as liaisons for the Community Leads and ambassadors.
 
+![image](https://github.com/user-attachments/assets/c40dad51-585b-4531-8666-1c63826bfb85)
+![image](https://github.com/user-attachments/assets/fe94db7c-d23f-438b-94cd-636cb19f5b27)
 
