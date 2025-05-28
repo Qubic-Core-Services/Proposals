@@ -1,7 +1,7 @@
 # Qubic France – Community CCF Proposal: **Cointribune**
 
 ## Sprint Details
-- **Sprint Duration**: **May 28 – July 28 2025**  
+- **Sprint Duration**: **4ht June 2025 –  4th September 2025**  
 - **Funding Request**: **20.8 billion QUBIC** @ $1 200 / billion (~ $25 000 USDT)  
 - **Wallet**: `VIOXIFANHGOUACKMYWNBCZQCQMZCLNMDRPTYIAVQZFFEAKNGYFIHDCWCYWMF`
 
