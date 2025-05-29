@@ -98,7 +98,7 @@ Funds are disbursed **monthly** only after progress is reported; unused funds ro
 
 ## Budget
 
-![image](https://github.com/user-attachments/assets/85c7acde-e92f-4d92-ae23-0d4fe882ea6e)
+![image](https://github.com/user-attachments/assets/20b790d7-8ab7-4fd0-9953-e8e50c6d5d7d)
 
 Detailed spreadsheet: <https://docs.google.com/spreadsheets/d/1eT8KuqquNSDpnTBXLWREgH2TCqxZusW5rxeOG5ruxw8/edit?usp=sharing>
 
