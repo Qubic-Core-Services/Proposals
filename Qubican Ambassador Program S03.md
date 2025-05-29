@@ -4,14 +4,14 @@
 | Item | Detail |
 |------|--------|
 | **Time-frame** | **June – July 2025** (2 months) |
-| **Amount** | **$55 000 USDT** ≈ **42.3 bln QUBIC** @ USD 1 300 / bln |
+| **Amount** | **$55 000 USDT** ≈ **39.3 bln QUBIC** @ USD 1400 / bln |
 | **Wallet** | `LVRGSAJQRAFELGGAHVAGJLKCGUDDOAEVSDEJAAEGNEVJWQRWDPHOBYHFCJCK` |
 
 ### Available Options
 | Option | Description |
 |--------|-------------|
 | **0** | No, I don’t want |
-| **1** | Yes, approve the budget of **42.3 bln QUBIC** |
+| **1** | Yes, approve the budget of **39.3 bln QUBIC** |
 
 ---
 
