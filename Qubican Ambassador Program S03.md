@@ -98,6 +98,8 @@ Funds are disbursed **monthly** only after progress is reported; unused funds ro
 
 ## Budget
 
+![image](https://github.com/user-attachments/assets/85c7acde-e92f-4d92-ae23-0d4fe882ea6e)
+
 Detailed spreadsheet: <https://docs.google.com/spreadsheets/d/1eT8KuqquNSDpnTBXLWREgH2TCqxZusW5rxeOG5ruxw8/edit?usp=sharing>
 
 > **Season-3 total**: **$55 000** (↑ $9 k vs. Season 2’s $46 k)  
