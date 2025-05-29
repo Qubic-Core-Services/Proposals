@@ -150,5 +150,5 @@ Program & CL compensation is impact-based, measured by the KPIs above.
 ---
 
 ## Conclusion
-Season 3 accelerates Qubic’s global community growth, professionalises local leadership, and deepens integration with core teams. Approval of **42.3 bln QUBIC** enables the programme to expand into key regions and sustain high-impact contributors.
+Season 3 accelerates Qubic’s global community growth, professionalises local leadership, and deepens integration with core teams. Approval of **39.3 bln QUBIC** enables the programme to expand into key regions and sustain high-impact contributors.
 ```
