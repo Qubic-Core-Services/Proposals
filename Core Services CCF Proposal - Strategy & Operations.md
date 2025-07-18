@@ -22,15 +22,15 @@ We focus on 6 different areas:
 
 ## S\&O Q2 Review - Wins & Learnings
 
-Launch and coordination of the season 3 Ambassador Program. The program currently consists of 9 communities (France, Spain, Nomads, USA, Russia, China, Nigeria, Turkey, Germany) and includes close to a 100 members. We are currently in the process of onboarding Vietnam, South Korea and LATM as new ambassador communities. The program is an extension of Qubic Marketing and Ecosystem team, providing consistent online social presence, event support and business partnership introductions like RaiseHack, Madrid Hackathon, Istanbul Blockchain Week and more.
+* Launch and coordination of the season 3 Ambassador Program. The program currently consists of 9 communities (France, Spain, Nomads, USA, Russia, China, Nigeria, Turkey, Germany) and includes close to a 100 members. We are currently in the process of onboarding Vietnam, South Korea and LATM as new ambassador communities. The program is an extension of Qubic Marketing and Ecosystem team, providing consistent online social presence, event support and business partnership introductions like RaiseHack, Madrid Hackathon, Istanbul Blockchain Week and more.
 
-Manage the legal entity in the Seychelles allowing Qubic to review contracts and close agreements. Currently transitioning private agreements to agreements made through the legal structure. 70% of all Qubic team members in the core workgroups have signed confidentiality agreements
+* Manage the legal entity in the Seychelles allowing Qubic to review contracts and close agreements. Currently transitioning private agreements to agreements made through the legal structure. 70% of all Qubic team members in the core workgroups have signed confidentiality agreements
 
-Successfully supported the ecosystem team with managing a legal framework that will allow it to engage with market makers and exchanges. In Q3 S\&OF will continue to offer legal, risk management and problem solving support across workgroups.
+* Successfully supported the ecosystem team with managing a legal framework that will allow it to engage with market makers and exchanges. In Q3 S\&OF will continue to offer legal, risk management and problem solving support across workgroups.
 
-Increased visibility of the Qubic ecosystem by organizing the Qubic ecosystem all-hands, proposal AMA and X Spaces. At peak we had 130 Discord members join each all-hands , with 80 members as a low. The S\&O team organized various X Spaces and in prompt DC stages to talk about the Discord. In Q3, we continue to aim to expand Qubic visibility by organizing public monthly/quarterly business reviews and organizing community X spaces with ambassadors and public media.
+* Increased visibility of the Qubic ecosystem by organizing the Qubic ecosystem all-hands, proposal AMA and X Spaces. At peak we had 130 Discord members join each all-hands , with 80 members as a low. The S\&O team organized various X Spaces and in prompt DC stages to talk about the Discord. In Q3, we continue to aim to expand Qubic visibility by organizing public monthly/quarterly business reviews and organizing community X spaces with ambassadors and public media.
 
-The S\&O team is a Swiss army knife. We supported various workgroups to execute on the roadmap; events, hiring, marketing, strategy meetings, CCF proposals, media appearances and legal counsel. In Q3, we continue with providing the same support.
+* The S\&O team is a Swiss army knife. We supported various workgroups to execute on the roadmap; events, hiring, marketing, strategy meetings, CCF proposals, media appearances and legal counsel. In Q3, we continue with providing the same support.
 
 Manage roadmap progression. The team has made a significant impact with various high impact initiatives such as monero mining,
 
