@@ -1,4 +1,4 @@
-# CCF Proposal - Core Services 
+# Core Services: Strategy & Operations CCF Proposal
 
 Sent 48.5 billion QUBIC to wallet STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE to support strategy and operations workgroup. The Qubic amount was calculated using a valuation of 1600 USDT per billion.
 
