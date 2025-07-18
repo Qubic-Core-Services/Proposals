@@ -1,4 +1,4 @@
-# CCF Proposal - Strategy & Operations
+# CCF Proposal - Core Services 
 
 Sent 48.5 billion QUBIC to wallet STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE to support strategy and operations workgroup. The Qubic amount was calculated using a valuation of 1600 USDT per billion.
 
@@ -7,9 +7,9 @@ Sent 48.5 billion QUBIC to wallet STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSD
 * Option 0: No, I don’t want
 * Option 1: Yes, approved the budget of 48.5 bln QUBIC.
 
-## What does Strategy & Operations
+## What does Strategy & Operations do?
 
-The S\&O team is responsible for translating Qubic’s strategic vision into tangible results by overseeing the day-to-day execution of the company’s roadmap and milestones. We ensure that teams, resources, and timelines are coordinated to meet key milestones and that visibility is created towards the community and investors; whether it’s launching a new hackathon, an upcoming IPO, ecosystem achievements or achieving financial targets.
+The S&O team is responsible for translating Qubic’s strategic vision into tangible results by overseeing the day-to-day execution of the company’s roadmap and milestones. We ensure that teams, resources, and timelines are coordinated to meet key milestones and that visibility is created towards the community and investors; whether it’s launching a new hackathon, an upcoming IPO, ecosystem achievements or achieving financial targets.
 
 We focus on 6 different areas:
 
