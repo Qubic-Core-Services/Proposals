@@ -1,11 +1,11 @@
 # Core Services: Strategy & Operations CCF Proposal
 
-Sent 48.5 billion QUBIC to wallet STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE to support strategy and operations workgroup. The Qubic amount was calculated using a valuation of 1600 USDT per billion.
+Sent 72.5 billion QUBIC to wallet STRATGYZMPOAFDMOYMFPFIPWAVGCBPFODBKUCELDQANLSDOHTZYRZDEBGALE to support the strategy and operations workgroup for the months August - October. The Qubic amount was calculated using a valuation of 1600 USDT per billion.
 
 ## Available Options:
 
 * Option 0: No, I don’t want
-* Option 1: Yes, approved the budget of 48.5 bln QUBIC.
+* Option 1: Yes, approved the budget of 72.5 bln QUBIC.
 
 ## What does Strategy & Operations do?
 
@@ -69,11 +69,12 @@ In 2025 S\&O is focussed on delivering across three pillars:
 
 ## Budget Breakdown
 
-<img width="600" height="162" alt="image" src="https://github.com/user-attachments/assets/cb951b4c-a065-442c-b800-f0427de58b32" />
+<img width="816" height="176" alt="image" src="https://github.com/user-attachments/assets/a3834971-b9a2-4794-957b-bbb1cde8d1a3" />
+
 
 ## Note:
 
-The budget covers August to September. The previous budget eventually covered April, May, June and July as the Qubic price increased.
+The budget covers August to October. The previous budget eventually covered April, May, June and July as the Qubic price increased.
 The majority of funds will be spent on salaries, legal and operational fees. As we aim to support more work groups, we open 1 or 2x 0.5 headcount in August. A proportion of the funding will be allocated to the operating costs of the legal entity, compliance matters regarding new partnerships and exchange contracts.
 Current team members work as independent contractors and agencies
 Salaries are paid in QUBIC depending on individual agreement
