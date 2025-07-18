@@ -32,7 +32,7 @@ We focus on 6 different areas:
 
 * The S\&O team is a Swiss army knife. We supported various workgroups to execute on the roadmap; events, hiring, marketing, strategy meetings, CCF proposals, media appearances and legal counsel. In Q3, we continue with providing the same support.
 
-Manage roadmap progression. The team has made a significant impact with various high impact initiatives such as monero mining,
+* Manage roadmap progression. The team has made a significant impact with various high impact initiatives such as monero mining,
 
 ## Learnings
 
