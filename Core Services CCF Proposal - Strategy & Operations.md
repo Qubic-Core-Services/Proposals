@@ -42,7 +42,7 @@ Manage roadmap progression. The team has made a significant impact with various 
 
 ## Strategy & Operations Strategy
 
-The S\&O team focusses on 6 different areas: bridging strategic vision with day-to-day execution, supporting special projects and strategic initiatives, eliminating operational inefficiencies, managing resource allocation, mitigating risks and addressing crises proactively. We ensure that teams, resources, and timelines are coordinated to meet key milestones and that visibility is created towards the community and investors; whether it’s launching a new hackathon, an upcoming IPO, ecosystem achievements or achieving financial targets.
+The S\&O team focusses on different areas: bridging strategic vision with day-to-day execution, supporting special projects and strategic initiatives, eliminating operational inefficiencies, managing resource allocation, mitigating risks and addressing crises proactively. We ensure that teams, resources, and timelines are coordinated to meet key milestones and that visibility is created towards the community and investors; whether it’s launching a new hackathon, an upcoming IPO, ecosystem achievements or achieving financial targets.
 
 In 2025 S\&O is focussed on delivering across three pillars:
 
