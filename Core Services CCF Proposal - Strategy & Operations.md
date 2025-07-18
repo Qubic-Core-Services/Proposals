@@ -39,6 +39,7 @@ Manage roadmap progression. The team has made a significant impact with various 
 * The process of transferring private to corporate agreements is taking too long. Major blocker has been the director of the company which has been solved.
 * Data collecting and metrics tracking is still a manual process. With the arrival of Qwatch this should improve.
 * The management of the season 2 ambassador program was a considerable workload. The ambassador program team has hired two part-time program managers that take some of that workload.
+* The increased level of decentralization is causing more confusion across some of the workgroup. It's more challenging to know who owns certain information and who's the driver behind it. It's becoming more challenging to hold teams/individuals accountable. 
 
 ## Strategy & Operations Strategy
 
