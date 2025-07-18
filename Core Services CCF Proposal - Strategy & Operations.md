@@ -69,6 +69,8 @@ In 2025 S\&O is focussed on delivering across three pillars:
 
 ## Budget Breakdown
 
+<img width="600" height="162" alt="image" src="https://github.com/user-attachments/assets/cb951b4c-a065-442c-b800-f0427de58b32" />
+
 ## Note:
 
 The budget covers August to September. The previous budget eventually covered April, May, June and July as the Qubic price increased.
