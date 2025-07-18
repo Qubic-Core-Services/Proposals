@@ -52,6 +52,8 @@ In 2025 S\&O is focussed on delivering across three pillars:
 * Provide strategic and operational support across all Qubic workgroups on special projects and key strategic initiatives
 * Event & Media Planning: In collaboration with marketing attend media appearances, PR and community meetups to showcase Qubic.
 * Scale the ambassador program: Scale successful events such as madhack to local communities. Provide structured rewards and performance metrics to incentivize ambassadors.
+* Launch Qubic university program. Connecting Qubic with students from top tier students across the globe.
+* Supporting roll-out of the Qubic Academy 2.0.
 * Hackathon Coordination: Help coordinate events such as the Madrid hackathon to attract new developers.
 * Roadmap Progress Tracking: Provide automated tracking and visibility through [https://q-c.s.com](https://q-c.s.com), monthly/quarterly business reviews, Qubic ecosystem all-hands across mediua
 * Improve documentation on [https://github.com/Qubic-Core-Services](https://github.com/Qubic-Core-Services) and Qubic Docs
