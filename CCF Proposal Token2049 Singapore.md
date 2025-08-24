@@ -12,7 +12,7 @@ Wallet:
 
 ## TLDR:  
 
-The Ecosystem Services, Core Services, and Marketing teams are jointly presenting this proposal with the strategic objective of positioning Qubic as the leading UPoW protocol across the industry. This initiative reflects a coordinated, cross-functional effort aimed at strengthening Qubic’s visibility, credibility, and long-term adoption within the global technology ecosystemhave secured:  
+The Ecosystem Services, Core Services, and Marketing teams are jointly presenting this proposal with the strategic objective of positioning Qubic as the leading UPoW protocol across the industry. This initiative reflects a coordinated, cross-functional effort aimed at strengthening Qubic’s visibility, credibility, and long-term adoption within the global technology ecosystem have secured:  
 
 - A dedicated booth at the upcoming event, ensuring continuous brand presence and engagement with key stakeholders.  
 - A 30-minute presentation slot, providing the opportunity to showcase Qubic’s most recent advancements, present our strategic roadmap, and communicate our value proposition as the reference standard for UPoW.  
