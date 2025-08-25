@@ -62,29 +62,30 @@ Community Leads together form a “quorum” that collectively votes on key-deci
 
 ---
 
-The program grew exponentially from 70 to over 3k ambassadors across the globe.  
-We organized events across France, Spain, Turkey, Vietnam, USA and Nigeria but also supported Qubic core teams at the France Raise Hackathon. For the first time, communities made their own CCF Proposals to seek funding to attend.organize large scale conferences  
-We onboarded 6 new community leads that actively lead and coordinate local Qubic communities in Asia.  
-Creation of three new communities: Vietnam (1100+ members), South Korea (142 members) and Japan.  
-Train the trainer Community leads on Qubic technicals, mining foundations and ecosystem development.  
-Delivered an incubated project as part of the Qubic incubator program.  
-Chinese community has grown to be ++200 members in QQ, providing mining educational content in Chinese.  
-France, China, USA connected with several developer communities to create future projects on Qubic  
-Over 15mln impressions across our X posts, across all communities.  
-Collaboration with local media, partners and an ongoing proposal at a highly negotiated price to help the community.  
-Two fast growing X podcasts (Qubic & Chill and La Qubineta)  
-Hosted a bi-weekly stream with average audience of 2500 viewers  
-Release of a monthly Qubic Newsletter (The Qsletter by Qubic Nomads)  
-Release of Qubic Inside (Monthly video recap by Qubic France)  
-Qubic Ambassador Program X account grew from 0 to 159k impressions. Still a long road to go.  
+## Other achievements
+- The program grew exponentially from 70 to over 3k ambassadors across the globe.  
+- We organized events across France, Spain, Turkey, Vietnam, USA and Nigeria but also supported Qubic core teams at the France Raise Hackathon. For the first time, communities made their own CCF Proposals to seek funding to attend.organize large scale conferences  
+- We onboarded 6 new community leads that actively lead and coordinate local Qubic communities in Asia.  
+- Creation of three new communities: Vietnam (1100+ members), South Korea (142 members) and Japan.  
+- Train the trainer Community leads on Qubic technicals, mining foundations and ecosystem development.  
+- Delivered an incubated project as part of the Qubic incubator program.  
+- Chinese community has grown to be ++200 members in QQ, providing mining educational content in Chinese.  
+- France, China, USA connected with several developer communities to create future projects on Qubic  
+- Over 15mln impressions across our X posts, across all communities.  
+- Collaboration with local media, partners and an ongoing proposal at a highly negotiated price to help the community.  
+- Two fast growing X podcasts (Qubic & Chill and La Qubineta)  
+- Hosted a bi-weekly stream with average audience of 2500 viewers  
+- Release of a monthly Qubic Newsletter (The Qsletter by Qubic Nomads)  
+- Release of Qubic Inside (Monthly video recap by Qubic France)  
+- Qubic Ambassador Program X account grew from 0 to 159k impressions. Still a long road to go.  
 
 ---
 
 ## Challenges & learnings
-Some communities had challenges to further grow their communities in members (USA and Spain), a new growth approach is required. The USA will be closely supported by Raziah to achieve its community potential. For Spain, El_Clip will be closer involved as an advisor.  
-We departed with the Turkish Ambassador Community as it was very challenging to work together with the community leads. The language barrier, spending of funds, differences in planning and differences in claim of rewards originated to this decision. We will revisit the opportunity to hire new CL’s for Turkey after season 4 as the opportunity in the Turkish market is huge.  
-The financial incentives were not impactful enough, resulting in some complains and some ambassadors making individual CCF requests (of which most got rejected). With the introduction of the Qubic Creator Fund, we believe we can fix that issue.  
-We had more incidents than ever with ambassadors that were not following the ethical guidelines of the ambassador program. We rolled out a new Code of Conduct for all ambassadors that clearly states what is expected of ambassadors and what set of responsibilities their role as ambassador brings. As we scale, we need to continue to educate and show ambassadors how good (behavior and impact) looks like.  
+- Some communities had challenges to further grow their communities in members (USA and Spain), a new growth approach is required. The USA will be closely supported by Raziah to achieve its community potential. For Spain, El_Clip will be closer involved as an advisor.  
+- We departed with the Turkish Ambassador Community as it was very challenging to work together with the community leads. The language barrier, spending of funds, differences in planning and differences in claim of rewards originated to this decision. We will revisit - the opportunity to hire new CL’s for Turkey after season 4 as the opportunity in the Turkish market is huge.  
+- The financial incentives were not impactful enough, resulting in some complains and some ambassadors making individual CCF requests (of which most got rejected). With the introduction of the Qubic Creator Fund, we believe we can fix that issue.  
+- We had more incidents than ever with ambassadors that were not following the ethical guidelines of the ambassador program. We rolled out a new Code of Conduct for all ambassadors that clearly states what is expected of ambassadors and what set of responsibilities = their role as ambassador brings. As we scale, we need to continue to educate and show ambassadors how good (behavior and impact) looks like.  
 
 ---
 
