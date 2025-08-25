@@ -39,7 +39,7 @@ Qubic Ambassadors (Qubicans) are passionate individuals from around the globe th
 
 Community Leads together form a “quorum” that collectively votes on key-decisions and the direction of the ambassador program.  
 
-### The ambassador program will focus on achieving 5 objectives in Season 4:
+### The ambassador program will focus on achieving 4 objectives in Season 4:
 - Community Expansion & Maturity: strengthen current and new communities (USA, South Korea, China,Vietnam and Japan) and launch new ones in important strategic locations in Asia (Singapore, Hong Kong, Taiwan), Canada and LATAM.  
 - Functional Integration with Core Teams: continue to train Community Leads and selected ambassadors to support ecosystem and marketing teams locally with different tasks.  
 - Roll-out Qubic Creator Fund: roll-out of the Qubic Creator Fund to incentive and fund a larger group of creators, retain top performers and reward entrepreneurial energy.  
