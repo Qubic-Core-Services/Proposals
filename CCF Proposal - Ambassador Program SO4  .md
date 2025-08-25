@@ -35,7 +35,7 @@ Qubic Ambassadors (Qubicans) are passionate individuals from around the globe th
 **Program Managers:** Raziah, Kimz  
 **Community Leads:** Seb, Raziah (France), Kimz (Nomad), SpaceCaddet, NFT Ronnie, Evandon (USA), Drac, Jort (Spain), Emmanuel, Xxodux (Nigeria), Marty, MDC (Germany), Xingyuan (China, Chinuk, Kavatak, German (Russia), Arya, Tien Binfort (Vietnam), Ddalki, Lee (South Korea), Tendou (Japan)  
 
-**To-be Onboarded Communities:** Singapore, Taiwan, Argentina (LATM), Canada, Thailand (Optional)  
+**To-be Onboarded Communities:** Singapore, Taiwan, Argentina, Brazil (LATAM), Canada, Thailand (Optional)  
 
 Community Leads together form a “quorum” that collectively votes on key-decisions and the direction of the ambassador program.  
 
