@@ -163,7 +163,7 @@ Talentnodes, Retrodrive and Alber are not paid and act as liaisons for the Commu
 | Program Manager West / Community Lead France | Raziah | Onboarding of new Communities, recruitment of CL, creates alignment between different communities . Focus on MENA and SEA |
 | Community Lead France | Seb | Coordinates local French Community and work groups |
 | Community Lead Nomad | Popeye | Coordinates Nomad Community and work groups |
-| Program Manager / Community Lead Nomads | Vacant | Trains/onboards new communities. Creates alignment between different communities |
+| Community Lead Nomads | Vacant | Coordinates Nomad Community and work groups |
 | Community Lead USA | Space caddet | Coordinates local US Community and work groups |
 | Community Lead USA | NFT Ronnie | Coordinates local US Community and work groups |
 | Community Lead USA | Evadon | Coordinates local US Community and work groups |
