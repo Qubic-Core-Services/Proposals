@@ -121,6 +121,10 @@ More information can be found here:
 ---
 
 ## Budget
+
+<img width="600" height="412" alt="image" src="https://github.com/user-attachments/assets/7ceade4f-3f26-424d-a1ac-c70f05ef2296" />
+
+
 Funds are allocated to communities on a monthly basis. We only provide funding after the agreed progression has been achieved. We will provide monthly reporting to the community in the #ambassador channel.  
 
 The overall increase in comparison with season 3 is about $40k (total $55k in S03). The content creator fund and the mini grants add significantly to the budget ($37k) but as explained we believe that adding more funds with the purpose of content creation and providing funding for strategic marketing campaigns from the community, will lead to more success. In comparison to season 3, we‘re onboarding 4 new communities. All these locations are strategically important locations for Qubic if we are to grow the network and support T1 listing (USA and South East Asia).  
