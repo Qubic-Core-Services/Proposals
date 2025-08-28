@@ -7,7 +7,7 @@ Wallet:
 
 ### Available Options:  
 - **Option 0**: No, I don’t want  
-- **Option 1**: Yes, approved the budget of 28bln QUBIC  @price (2500/Bln)  
+- **Option 1**: Yes, approved the budget of 30.8 bln QUBIC  @price (2400/Bln)  
 
 
 ## TLDR:  
@@ -94,9 +94,9 @@ We are achieving unprecedented technological milestones and we have a unique AI-
 | Item | Cost (USD) |  
 |------|------------|  
 | Token2049 (booth, tickets, 30min workshop) | $39,800 |  
-| Side event (100+ guests) | $23,200 |  
+| Side event (100+ guests) | $27,200 |  
 | Media & Promotion | $4,000 |  
 | Operational expenses | $3,000 |  
-| **Total** | **$70,000** |  
+| **Total** | **$74,000** |  
 
 Any left over expenses will be sent back to the CCF. Flight and hotel costs are not included in this proposal, Ecosystem Services and Core Services will cover their members' expenses to not further increase the costs of this proposal.  
