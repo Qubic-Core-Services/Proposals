@@ -1,12 +1,12 @@
 # CCF Proposal - Ambassador Program SO4
 
 ## CCF Proposal
-Request to approve the budget of the Ambassador Program Season 4 for the months September, October and November with approx 39.6 bln Qubic / $2400 per/bln.  
+Request to approve the budget of the Ambassador Program Season 4 for the months September, October and November with approx 41.3 bln Qubic / $2300 per/bln.  
 Wallet: LVRGSAJQRAFELGGAHVAGJLKCGUDDOAEVSDEJAAEGNEVJWQRWDPHOBYHFCJCK
 
 ### Available Options:
 Option 0: No, I don’t want  
-Option 1: Yes, approved the budget of 39.6 bln QUBIC  
+Option 1: Yes, approved the budget of 41.3 bln QUBIC  
 
 ---
 
@@ -123,7 +123,8 @@ More information can be found here:
 
 ## Budget
 
-<img width="600" height="412" alt="image" src="https://github.com/user-attachments/assets/7ceade4f-3f26-424d-a1ac-c70f05ef2296" />
+<img width="599" height="393" alt="image" src="https://github.com/user-attachments/assets/60289022-cddc-4f37-82b9-44b1d75e2825" />
+
 
 
 Funds are allocated to communities on a monthly basis. We only provide funding after the agreed progression has been achieved. We will provide monthly reporting to the community in the #ambassador channel.  
