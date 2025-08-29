@@ -7,7 +7,7 @@ Wallet:
 
 ### Available Options:  
 - **Option 0**: No, I don’t want  
-- **Option 1**: Yes, approved the budget of 30.8 bln QUBIC  @price (2400/Bln)  
+- **Option 1**: Yes, approved the budget of 32.6 bln QUBIC  @price ($2300/Bln)  
 
 
 ## TLDR:  
