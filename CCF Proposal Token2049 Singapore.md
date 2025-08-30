@@ -3,7 +3,7 @@ Singapore
 
 ## Proposal:  
 Request to approve the budget for the Token2049 event, workshop and side event in Singapore.  
-Wallet:  
+Wallet: CNHVGAEQJUATZBGAUYEENKFJNUJDYISBPDQQGXNYQDYVXTMOWMLVSHKAVNOD  
 
 ### Available Options:  
 - **Option 0**: No, I don’t want  
