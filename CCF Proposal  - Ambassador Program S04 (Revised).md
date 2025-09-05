@@ -92,13 +92,16 @@ The ambassador program will focus on achieving 5 objectives in Season 4:
 
 ## S3 Challenges & learnings
 
-Some communities had challenges to further grow their communities in members (USA and Spain), a new growth approach is required. The USA will be closely supported by Raziah to achieve its community potential. For Spain, El_Clip will be closer involved as an advisor.  
-We departed with the Turkish Ambassador Community as it was very challenging to work together with the community leads. The language barrier, spending of funds, differences in planning and differences in claim of rewards originated to this decision. We will revisit - the opportunity to hire new CL's for Turkey after season 4 as the opportunity in the Turkish market is huge.  
-We had more incidents than ever with ambassadors that were not following the ethical guidelines of the ambassador program. We rolled out a new Code of Conduct for all ambassadors that clearly states what is expected of ambassadors and what set of responsibilities = their role as ambassador brings. As we scale, we need to continue to educate and show ambassadors how good (behavior and impact) looks like.  
+- Some communities had challenges to further grow their communities in members (USA and Spain), a new growth approach is required. The USA will be closely supported by Raziah to achieve its community potential. For Spain, El_Clip will be closer involved as an advisor.  
+- We departed with the Turkish Ambassador Community as it was very challenging to work together with the community leads. The language barrier, spending of funds, differences in planning and differences in claim of rewards originated to this decision. We will revisit - the opportunity to hire new CL's for Turkey after season 4 as the opportunity in the Turkish market is huge.  
+- We had more incidents than ever with ambassadors that were not following the ethical guidelines of the ambassador program. We rolled out a new Code of Conduct for all ambassadors that clearly states what is expected of ambassadors and what set of responsibilities = their role as ambassador brings. As we scale, we need to continue to educate and show ambassadors how good (behavior and impact) looks like.  
 
 ---
 
 ## Budget
+
+<img width="542" height="391" alt="image" src="https://github.com/user-attachments/assets/4eb19a6e-10a4-4e9f-8766-2113825e3561" />
+
 
 Funds are allocated to communities on a monthly basis. We only provide funding after the agreed progression has been achieved. We will provide monthly reporting to the community in the #ambassador channel.  
 The overall increase in comparison with season 3 is about $4k (total $55k in S03). In comparison to season 3, we're onboarding 4 new communities. All these locations are strategically important locations for Qubic if we are to grow the network and support T1 listing (USA and South East Asia).  
