@@ -10,18 +10,25 @@ Option 1: Yes, approved the budget of 2200 bln QUBIC
 
 ---
 
-The Qubic Ambassador Program is a global initiative aimed at building local communities that are passionate about Qubic. They are our boots on the ground. Qubican's (ambassadors) lead on expanding Qubic's global reach by organising local events, educating local communities, and contributing to the growth of the Qubic ecosystem by integrating more closely with the ecosystem, marketing and operation teams. At this the program has over 120 active ambassadors and over 3k members across the globe  
+The Qubic Ambassador Program is a global initiative aimed at building local communities that are passionate about Qubic. They are our boots on the ground. Qubican's (ambassadors) lead on expanding Qubic's global reach by organising local events, educating local communities, and contributing to the growth of the Qubic ecosystem by integrating more closely with the ecosystem, marketing and operation teams. At this the program has over 120 active ambassadors and over 3k members across the globe.  
+
 To further professionalize and scale the ambassador program into targeted ecosystem areas, we're proposing a CCF request to fund Season 4 of the Qubican program. This season, the program aims to professionalize existing communities (with more training) and expand into new territories (Singapore, Taiwan, LATAM and Canada).  
 The season covers a period of 2 months with a possible extension if the Qubic price further appreciates.  
-**Link to full proposal (incl ambassador introduction, governance, CL and workgroup requirements):**  
-Google Doc - Full Proposal  
-**Link to S4 FAQ:**  
-GitHub - S4 FAQ  
-**Link to Ambassador Code of Conduct:**  
-GitHub - Code of Conduct  
-**Link to expenses tracking:**  
-Google Doc - Expense Tracking
 
+**Link to full proposal (incl ambassador introduction, governance, CL and workgroup requirements):**  
+https://docs.google.com/document/d/1aIVA1oD-9bRYrkMdFT9fZXdL2mooYXHRasfyJe_K-Rk/edit?usp=sharing
+
+**Link to S4 FAQ:**  
+[GitHub - S4 FAQ  
+](https://github.com/Qubic-Core-Services/Proposals/blob/main/FAQ%20SO4%20Ambassador%20Program%20.md)
+
+**Link to Ambassador Code of Conduct:**  
+[GitHub - Code of Conduct  
+](https://github.com/Qubic-Core-Services/Proposals/blob/main/Qubic%20Ambassador%20Code%20of%20Conduct%20.md)
+
+**Link to expenses tracking:**  
+[Google Doc - Expense Tracking
+](https://docs.google.com/spreadsheets/d/1Z1vGvwoU5xvNJS0JGmS91Xhx8rdtY-lUCt-TxgshY3s/edit?gid=0#gid=0)
 ---
 
 ## Season 3 Review
