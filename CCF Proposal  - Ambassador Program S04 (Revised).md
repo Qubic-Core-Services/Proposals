@@ -1,12 +1,12 @@
 # CCF Proposal - Ambassador Program SO4 (Revised)
 
 ## CCF Proposal
-Request to approve the budget of the Ambassador Program Season 4 for the months September, October with approx xxx bln Qubic / $xxx per/bln.  
+Request to approve the budget of the Ambassador Program Season 4 for the months September, October with approx 27 bln QUBIC / $2200 per/bln.  
 Wallet: LVRGSAJQRAFELGGAHVAGJLKCGUDDOAEVSDEJAAEGNEVJWQRWDPHOBYHFCJCK
 
 **Available Options:**  
 Option 0: No, I don't want  
-Option 1: Yes, approved the budget of 2200 bln QUBIC
+Option 1: Yes, approved the budget of 27bln QUBIC
 
 ---
 
