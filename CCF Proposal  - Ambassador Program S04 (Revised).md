@@ -29,6 +29,8 @@ https://docs.google.com/document/d/1aIVA1oD-9bRYrkMdFT9fZXdL2mooYXHRasfyJe_K-Rk/
 **Link to expenses tracking:**  
 [Google Doc - Expense Tracking
 ](https://docs.google.com/spreadsheets/d/1Z1vGvwoU5xvNJS0JGmS91Xhx8rdtY-lUCt-TxgshY3s/edit?gid=0#gid=0)
+
+
 ---
 
 ## Season 3 Review
