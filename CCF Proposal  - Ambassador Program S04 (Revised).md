@@ -48,7 +48,7 @@ https://docs.google.com/document/d/1aIVA1oD-9bRYrkMdFT9fZXdL2mooYXHRasfyJe_K-Rk/
 
 ### Other achievements
 
-- 9 new projects are currently being developed (or completed) by active developers in the communities: Easyconnect, Qulang, Qbuild, qWeekly, Qubipy, Qubic otc escrow dapp, Read2Earn, Garth.  
+- 9 new projects are currently being developed (or completed) by active developers in the communities: Easyconnect, Qulang, Qbuild, qWeekly, Qubipy, Qubic otc escrow dapp, Garth.  
 - The program grew exponentially from 70 to over 3k ambassadors across the globe.  
 - Creation of three new communities: Vietnam (1100+ members), South Korea (142 members) and Japan(169 members), regions all relevant Qubics ecosystem growth plan  
 - Train the trainer Community leads on Qubic technicals, mining foundations and ecosystem development.  
