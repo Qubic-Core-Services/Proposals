@@ -127,6 +127,8 @@ Talentnodes, Retrodrive and Alber are not paid and act as liaisons for the Commu
 
 ## Who's on the team?
 
+# Who's on the team?
+
 | Role | Name | Description |
 |------|------|-------------|
 | Program Lead | Talentnodes | Lead of the Qubican program |
@@ -142,4 +144,19 @@ Talentnodes, Retrodrive and Alber are not paid and act as liaisons for the Commu
 | Community Lead USA | Evadon | Coordinates local US Community and work groups |
 | Community Lead Spain | Drac | Coordinates local Spanish Community and work groups |
 | Community Lead Spain | jortxjortx | Coordinates local Spanish Community and work groups |
-| Community Lead Nigeria | Emmanuel | Coordinates local Nigerian Community and work g |
+| Community Lead Nigeria | Emmanuel | Coordinates local Nigerian Community and work groups |
+| Community Lead Nigeria | Xoddux | Coordinates local Nigerian Community and work groups |
+| Community Lead China | Xingyuan | Coordinates local Chinese Community and work groups |
+| Community Lead China | Vacant | Coordinates local Chinese Community and work groups |
+| Community Lead Germany | Marty | Coordinates local German Community and work groups |
+| Community Lead Germany | MDC | Coordinates local German Community and work groups |
+| Community Lead Russia | Chinuk | Coordinates local Russian Community and work groups |
+| Community Lead Russia | German | Coordinates local Russian Community and work groups |
+| Community Lead Russia | Kavatak | Coordinates local Russian Community and work groups |
+| Community Lead Vietnam | Arya | Coordinates local Vietnamese Community and work groups |
+| Community Lead Vietnam | Tien Binfort | Coordinates local Vietnamese Community and work groups |
+| Community Lead S.Korea | Ddalki | Coordinates local S.Korean Community and work groups |
+| Community Lead S.Korea | Lee | Coordinates local S.Korean Community and work groups |
+| Community lead Japan | Tendou | Coordinates local Japanese Community and work groups |
+| Community lead Japan | Vacant | Coordinates local Japanese Community and work groups |
+
